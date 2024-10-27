@@ -1,0 +1,77 @@
+{
+    "title" : "Tips for finding doctors",
+    "subtitle": "You should allow yourself enough time to choose the right doctor. Be clear about how you want to change your appearance and what expectations you have for the operation or treatment.",
+    "step": {
+        "1": {
+            "title": "Research by experienced plastic surgeon",
+            "subtitle": "Find out more in your personal environment (friends, family). Nothing is better than a personal recommendation, but here too you can be lucky or unlucky. Sources of information such as the Internet or forums are very helpful when searching. However, there are always some points to consider. Is the doctor you came across through your search a specialist in plastic & aesthetic surgery? Or just a surgeon or an ear, nose and throat doctor? Make at least 2 consultation appointments!"
+        },
+        "2": {
+            "title": "The appointment arrangement",
+            "subtitle": "How does the first contact affect you? Have you already been given information on your questions by phone or do you feel that you have been dealt with briefly? The rule here: Rely on your feelings! The stomach is mostly right!"
+        },
+        "3": {
+            "title": "The decision",
+            "subtitle": "After the interview, you should have the impression that you know everything you need to know. Now you have to decide. Don't let yourself be put under pressure! All aesthetic interventions can be planned in peace. Statements such as: 'We can only operate on you this week or if you come tomorrow it is particularly cheap' should make you think. Basically: a serious doctor will never have a problem if you want to get a second medical opinion before making your final decision. If you decide now, trust your feelings. If there is something you don't like, keep looking. You will find the right doctor for you. Price differences should not significantly influence your decision. Not everything that is particularly cheap or expensive is also good."
+        }
+    },
+    "costFinancing": {
+        "title": "Costs & Financing",
+        "section": {
+            "1": {
+                "title": "Costs for plastic-aesthetic interventions",
+                "subtitle": "The costs vary depending on the patient's findings. Therefore, an exact calculation can only be made by the surgeon after a personal interview. It is therefore possible that you will receive relatively precise information about the expected total costs (the procedure, the anesthetist, the hospital, the follow-up treatment) of your plastic-aesthetic procedure during your first consultation. So that you are not surprised by unexpected payments afterwards, you will receive a cost estimate following the consultation, which will inform you in detail about the expenses planned for the operation. As a rule, the final amount after the operation hardly ever deviates from the cost estimate."
+            },
+            "2": {
+                "title": "Financing of surgical services",
+                "subtitle": "Regardless of your financial situation and the mostly low or negative participation by your health insurance company, we would like to enable you to get aesthetic treatment in our clinic in cooperation with our financial service provider Medkred. Via the information flyer and on the Medkred homepage, you can obtain information directly from Medkred about the conditions, possibilities and requirements for financing that is individually tailored to you. The financing of medical or cosmetic treatment often causes some difficulties for patients due to the high treatment costs, which in the worst case means that they cannot demand the best possible service that they want and deserve. Medkred offers a simple, convenient and, above all, safe solution in this case."
+            }
+        }
+    },
+    "insurance": {
+        "title": "Follow-up insurance",
+        "subtitle": "No matter how small the procedure and how careful your doctor has been - every major medical treatment carries a risk of subsequent complications such as secondary bleeding or wound healing disorders. However, you usually have to pay for any follow-up treatments outside of your health insurance’s range of services, such as cosmetic surgery or dental implantation. medassure assumes these costs. So that you can concentrate fully on your healing, you should secure a non-medically necessary treatment in advance.",
+        "details": {
+            "1": {
+                "title": "How do I pay the premium?",
+                "subtitle": "With medassure follow-up costs insurance, the one-time insurance premium is collected by direct debit. The bank details are stored when the online transaction is mad"
+            },
+            "2": {
+                "title":"How can I take out medassure?",
+                "subtitle": "You can apply for medassure quickly and easily online. All you need to do is provide the necessary information about yourself, your type of treatment and the surgeon. \n\nYou can then immediately print out the insurance policy and the advice report. After the successful conclusion of the contract, you will receive all insurance documents by email. The insurance premium is collected once from the account you specified via SEPA direct debit mandate."
+            },
+            "3": {
+                "title":"Does medassure apply to every doctor?",
+                "subtitle": "Yes, provided that the operation takes place in Germany and, like our practice, is a specialist registered with medassure with proven membership in one of the recognized medical associations."
+            },
+            "4": {
+                "title":"Is there insurance cover for interventions abroad?",
+                "subtitle": "No, the insurance cover only applies to treatments that are carried out in Germany."
+            }
+        }
+    },
+    "faq": {
+        "details": {
+            "1": {
+                "title": "What are the risks of cosmetic surgery?",
+                "subtitle": "As with any operation, cosmetic surgery can also lead to complications such as bleeding, intolerance to the anesthetic agent, wound healing disorders or the formation of blood clots. In conversation with the doctor, specific risks are explained, which can vary depending on the operation."
+            },
+            "2": {
+                "title": "How long will it take after the operation until I am fully operational again?",
+                "subtitle": "A general answer cannot be given here, because this depends on the type and extent of the cosmetic surgery. The bigger the procedure, the longer it takes to leave the clinic and the pain to go away."
+            },
+            "3": {
+                "title": "From what age are cosmetic surgeries allowed?",
+                "subtitle": "Generally from the age of 18. However, some cosmetic surgeons also operate on younger patients if the parents' consent has been given; possibly also that of the family doctor."
+            },
+            "4": {
+                "title": "How do I best prepare for plastic surgery?",
+                "subtitle": "Smokers should reduce their consumption as much as possible four weeks before the appointment, since the nicotine in the blood can lead to wound healing disorders. In general, it is helpful to eat a wholesome diet so that the body is optimally prepared. Alcohol or blood-thinning medication should also be avoided."
+            },
+            "5": {
+                "title": "What happens if I am dissatisfied after the plastic surgery?",
+                "subtitle": "In the event of dissatisfaction, it depends on what was discussed in advance. Is there a medical mistake or did the patient imagine something else? In the event of further corrections that the patient wishes, he must bear the costs himself."
+            }
+        }
+    }
+}

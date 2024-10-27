@@ -1,0 +1,32 @@
+[
+  {
+    "query": "face_and_head",
+    "x": "55%",
+    "y": "30%",
+    "active": false
+  },
+  {
+    "query": "chest_area",
+    "x": "82%",
+    "y": "40%",
+    "active": false
+  },
+  {
+    "query": "body",
+    "x": "84%",
+    "y": "50%",
+    "active": false
+  },
+  {
+    "query": "arms",
+    "x": "42%",
+    "y": "38%",
+    "active": false
+  },
+  {
+    "query": "legs",
+    "x": "70%",
+    "y": "65%",
+    "active": false
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "face_and_head": [
+    {
+      "query": "face_lift",
+      "x": "65%",
+      "y": "31%",
+      "active": false
+    },
+    {
+      "query": "neck_lift",
+      "x": "70%",
+      "y": "34%",
+      "active": false
+    },
+    {
+      "query": "eyelid_correction",
+      "x": "61%",
+      "y": "30%",
+      "active": false
+    },
+    {
+      "query": "rhinoplasty",
+      "x": "59%",
+      "y": "33%",
+      "active": false
+    },
+    {
+      "query": "ear_correction",
+      "x": "67%",
+      "y": "29%",
+      "active": false
+    },
+    {
+      "query": "chin_correction",
+      "x": "65%",
+      "y": "35%",
+      "active": false
+    }
+  ],
+  "chest_area": [
+    {
+      "query": "breast_reduction_man",
+      "x": "74%",
+      "y": "39%",
+      "active": false
+    }
+  ],
+  "body": [
+    {
+      "query": "liposuction",
+      "x": "80%",
+      "y": "50%",
+      "active": false
+    },
+    {
+      "query": "tummy_tuck",
+      "x": "86%",
+      "y": "47%",
+      "active": false
+    },
+    {
+      "query": "scar_correction",
+      "x": "86%",
+      "y": "53%",
+      "active": false
+    }
+  ],
+  "arms": [
+    {
+      "query": "sweat_gland_suction",
+      "x": "58%",
+      "y": "40%",
+      "active": false
+    },
+    {
+      "query": "upper_arm_thigh_lift",
+      "x": "45%",
+      "y": "38%",
+      "active": false
+    }
+  ],
+  "legs": [
+    {
+      "query": "brazilian_butt_lift",
+      "x": "70%",
+      "y": "58%",
+      "active": false
+    }
+  ]
+}

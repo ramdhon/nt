@@ -1,0 +1,30 @@
+[
+  {
+    "query": "wringkle_treatment",
+    "active": false
+  },
+  {
+    "query": "wringkle_injection",
+    "active": false
+  },
+  {
+    "query": "lip_injection",
+    "active": false
+  },
+  {
+    "query": "vampire_lift",
+    "active": false
+  },
+  {
+    "query": "prp_therapy",
+    "active": false
+  },
+  {
+    "query": "anti_stress",
+    "active": false
+  },
+  {
+    "query": "fat_away",
+    "active": false
+  }
+]

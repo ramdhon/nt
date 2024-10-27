@@ -1,0 +1,77 @@
+{
+    "title" : "Tipps zur Arztsuche",
+    "subtitle": "Für die Wahl des geeigneten Arztes sollten Sie sich genügend Zeit nehmen. Werden Sie sich klar darüber, wie Sie Ihr Aussehen verändern möchten und welche Erwartungen Sie in die Operation oder Behandlung setzen.",
+    "step": {
+        "1": {
+            "title": "Recherche erfahrener plastischer Chirurg",
+            "subtitle": "Recherche erfahrener plastischer Chirurg\n\n Informieren Sie sich in ihrem persönlichen Umfeld (Freunde, Familie). Nichts ist besser als persönliche Empfehlung, aber auch hierbei kann man Glück oder Pech haben.\n\n Informationsquellen, wie z.B. Internet oder Foren sind sehr hilfreich bei der Suche. Einige Punkte sind aber immer zu beachten.\n\n Ist der Arzt, auf den Sie durch ihre Suche gestoßen sind, Facharzt für Plastische & Ästhetische Chirurgie?\n\nOder nur Chirurg oder Hals Nasen Ohren Arzt?\n\nMachen Sie mindestens 2 Beratungstermine aus!"
+        },
+        "2": {
+            "title": "Die Terminvereinbarung",
+            "subtitle": "Wie wirkt der erste Kontakt auf Sie? Erteilt man Ihnen auch per Telefon schon Auskünfte auf Ihre Fragen oder fühlen Sie sich kurz abgefertigt?\n\nHier gilt: Verlassen sie sich auf Ihr Gefühl! Der Bauch hat meistens Recht!"
+        },
+        "3": {
+            "title": "Die Entscheidung",
+            "subtitle": "Nach dem Gespräch sollten Sie den Eindruck haben alles Wichtige zu wissen. Nun müssen Sie entscheiden. Lassen Sie sich dabei nicht unter Druck setzen! Alle ästhetischen Eingriffe können in Ruhe geplant werden. Aussagen wie: „Wir können Sie nur diese Woche operieren oder wenn sie morgen kommen ist es besonders günstig“ sollten Sie nachdenklich machen. Grundsätzlich gilt: ein seriöser Arzt hat nie ein Problem damit, wenn Sie vor Ihrer endgültigen Entscheidung noch eine zweite ärztliche Meinung einholen wollen.\n\nWenn Sie sich nun entscheiden vertrauen Sie Ihrem Gefühl. Gibt es etwas, das Ihnen nicht gefällt, suchen Sie weiter. Sie werden den richtigen Arzt für sich finden.\n\nPreisunterschiede sollten Ihren Entschluss nicht maßgeblich beeinflussen. Nicht alles was besonders billig oder teuer ist, ist auch gut."
+        }
+    },
+    "costFinancing": {
+        "title": "Kosten & Finazierung",
+        "section": {
+            "1": {
+                "title": "Kosten bei plastisch-ästhetischen Eingriffen",
+                "subtitle": "Die Kosten variieren je nach Befund des Patienten. Daher kann eine genaue Kalkulation durch den Chirurgen erst nach einem persönlichen Vorstellungsgespräch erfolgen. Somit ist es möglich, dass Sie bereits bei Ihrem ersten Beratungsgespräch eine relativ genaue Angabe zu den zu erwartenden Gesamtkosten (der Eingriff, den Anästhesisten, das Krankenhaus, die Nachbehandlung) Ihres plastisch-ästhetischen Eingriffs erhalten. Damit Sie im Nachhinein nicht von unerwarteten Zahlungen überrascht werden, erhalten Sie im Anschluss an das Beratungsgespräch einen Kostenvoranschlag, der Sie detailgenau über die für die Operation vorgesehenen Aufwendungen informiert. In der Regel weicht der Endbetrag nach der Operation so gut wie nie vom Kostenvoranschlag ab."
+            },
+            "2": {
+                "title": "Finanzierung von chirurgischen Leistungen",
+                "subtitle": "Unabhängig von Ihrer finanziellen Situation und der meist geringen oder negativen Beteiligung durch Ihre Krankenkasse, möchten wir Ihnen in Kooperation mit unserem Finanzdienstleister Medkred den Weg zur ästhetischen Behandlung in unserer Klinik ermöglichen.\n\nÜber den Informationsflyer sowie auf der Homepage von Medkred, können Sie sich direkt bei Medkred über die Konditionen, Möglichkeiten und Voraussetzungen einer für Sie individuell passenden Finanzierung informieren.\n\nOft bereitet Patienten die Finanzierung einer medizinischen oder kosmetischen Behandlung aufgrund der hohen Behandlungskosten einige Schwierigkeiten, die im ungünstigsten Fall dazu führen, dass sie nicht die bestmögliche Leistung fordern können, die sie sich wünschen und verdient haben. Medkred bietet für diesen Fall eine einfache, komfortable und vor allem sichere Lösung."
+            }
+        }
+    },
+    "insurance": {
+        "title": "Folgevericherung",
+        "subtitle": "Egal wie klein der Eingriff und wie sorgfältig Ihr Arzt gewesen ist – Jede größere medizinische Behandlung birgt ein Risiko anschließender Komplikationen wie zum Beispiel Nachblutungen oder Wundheilungsstörungen. Folgebehandlungen außerhalb des Leistungskatalogs Ihrer Krankenkasse wie einer Schönheitsoperation oder einer Zahnimplantation müssen Sie jedoch in der Regel selbst zahlen. medassure übernimmt diese Kosten.\n\nDamit Sie sich ganz auf Ihre Heilung konzentrieren können, sollten Sie eine nicht medizinisch notwendige Behandlung daher rechtzeitig vorab absichern.",
+        "details": {
+            "1": {
+                "title": "Wie zahle ich den Beitrag?",
+                "subtitle": "Bei der medassure Folgekostenversicherung wird per Lastschrifteinzug die einmalige Versicherungsprämie eingezogen. Die Bankverbindung wird beim Online-Abschluss hinterlegt."
+            },
+            "2": {
+                "title":"Wie kann ich medassure abschließen?",
+                "subtitle": "Sie können medassure einfach und schnell online beantragen. Hierzu müssen Sie lediglich die notwendigen Angaben zu Ihrer Person, Ihrer Behandlungsart und dem operierenden Arzt angeben.\n\nAnschließend können Sie sofort die Versicherungspolice und das Beratungsprotokoll ausdrucken. Nach erfolgreichem Vertragsabschluss erhalten Sie alle Versicherungsunterlagen per E-Mail. Die Versicherungsprämie wird einmalig per SEPA-Lastschriftmandat von dem von Ihnen angegebenen Konto eingezogen."
+            },
+            "3": {
+                "title":"Gilt medassure bei jedem Arzt?",
+                "subtitle": "Ja, vorausgesetzt die Operation findet in Deutschland statt und es handelt sich um einen, wie unser Praxis, bei medassure registrierten Facharzt mit nachgewiesener Verbandszugehörigkeit in einem der anerkannten Arztverbände."
+            },
+            "4": {
+                "title":"Besteht für Eingriffe im Ausland Versicherungsschutz?",
+                "subtitle": "Nein, der Versicherungsschutz gilt nur für Behandlungen, die in Deutschland durchgeführt werden."
+            }
+        }
+    },
+    "faq": {
+        "details": {
+            "1": {
+                "title": "Welche Risiken gibt es bei Schönheitsoperationen?",
+                "subtitle": "Wie bei jeder Operation kann es auch bei Schönheitsoperationen zu Komplikationen, wie Blutungen, Unverträglichkeit des Narkosemittels, Wundheilungsstörungen oder der Bildung von Blutgerinnseln kommen. Im Gespräch mit dem Arzt werden spezifische Risiken erklärt, die je nach Operation unterschiedlich sein können."
+            },
+            "2": {
+                "title": "Wie lange dauert es nach der Operation, bis ich wieder voll einsatzfähig bin?",
+                "subtitle": "Eine pauschale Antwort kann man hier nicht geben, weil dies abhängig von Art und Umfang der Schönheitsoperation ist. Je größer der Eingriff, desto länger dauert es, bis man die Klinik verlassen kann und die Schmerzen vergehen."
+            },
+            "3": {
+                "title": "Ab welchem Alter sind Schönheitsoperationen erlaubt?",
+                "subtitle": "Generell ab dem 18. Lebensjahr. Einige Schönheitschirurgen operieren aber auch jüngere Patienten, wenn die Einverständniserklärung der Eltern vorliegt; gegebenenfalls zusätzlich die des Hausarztes."
+            },
+            "4": {
+                "title": "Wie bereite ich mich am Besten auf die Schönheitsoperation vor?",
+                "subtitle": "Raucher sollten vier Wochen vor dem Termin ihren Konsum möglichst weitestgehend reduzieren, da das Nikotin im Blut zu Wundheilungsstörungen führen kann. Generell ist es hilfreich, sich vollwertig zu ernähren, damit der Körper optimal vorbereitet ist. Auch auf Alkohol oder blutverdünnende Medikamente sollte verzichtet werden."
+            },
+            "5": {
+                "title": "Was passiert, wenn ich nach der Schönheitsoperation unzufrieden bin?",
+                "subtitle": "Bei Unzufriedenheit kommt es darauf an, was im Vorfeld besprochen wurde. Liegt ein ärztlicher Fehler vor oder hat sich der Patient etwas anderes vorgestellt? Bei weiteren Korrekturen, die der Patient wünscht, muss er selbst die Kosten übernehmen."
+            }
+        }
+    }
+}

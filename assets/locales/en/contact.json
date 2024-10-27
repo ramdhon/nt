@@ -1,0 +1,22 @@
+{
+  "title": "Contact",
+  "gallery": "Clinic",
+  "form": "Contact Form",
+  "text": "Communication, trust and mutual understanding is essential for the succes of a cosmetic surgical treatment. On the path to satisfactory results, it is crucial for me to understand your wishes and expectations. Only then I can share my honest opinion about the possibalities, before we can make the decision for the treatment. So, I am looking forward to meeting you in person in my clinic.",
+  "detail": {
+    "tel": "Tel",
+    "addr": "Address",
+    "map": "Open in maps"
+  },
+  "formDetail": {
+    "name": "Your name",
+    "email": "E-mail",
+    "no": "Phone number",
+    "detail": "How can we help you?",
+    "statement": "I know that my data will be stored electronically. I agree to the processing of the data collected about me for the purpose of processing and responding to my inquiry. I am aware that I can revoke this consent at any time with effect for the future. For further information, please refer to our privacy policy.",
+    "check": "Yes, I have read and agree to the privacy statement.",
+    "send": "Send",
+    "valid": "Please make sure you entered all the required field and accept privacy statement.",
+    "required": "Required."
+  }
+}

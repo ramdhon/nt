@@ -1,0 +1,1635 @@
+{
+  "general": "General Information",
+  "engagement": "Engagement",
+  "additional": "Additional Information",
+  "treatment": "Treatment",
+  "summary": "Summary",
+  "faq": "FAQ",
+  "procedures": "Procedures",
+  "surgeries": "Surgeries",
+  "nonsurgeries": "Non-surgical Procedures",
+  "changeArea": "change area",
+  "changeProcedure": "change procedure",
+  "changeGender": "change gender",
+  "virtual": "Virtual Consultation",
+  "virtualDesc": "Please click on the area of interest to reveal surgical and non surgical procedures offered by Prof. Dr. Nidal Toman. Alternatively you can also select an area from the list.",
+  "virtualDescMobile": "Please Select Gender",
+  "virtualTap": "Please tap on the area of interest on below figure.",
+  "footerTitle": "Book consultation or treatment appointment.",
+  "footerSub": "You can book your appointment from our clinic via email or call.",
+  "contact": "Contact",
+  "detail": "see details",
+  "allDetail": "see all procedures",
+  "face_and_head": {
+    "title": "Face and Head",
+    "face_lift": {
+      "title": "Face Lift",
+      "general": {
+        "title": "Allgemeines zum Face-Lift",
+        "content": "The natural ageing process inevitably leads to reduced skin elasticity—with various intensity of wrinkling.\nThe facelift is certainly the most invasive but also the most effective method of achieving visual rejuvenation by rejuvenating the entire face or neck region. The anatomical characteristics that determine our facial expression require special surgical techniques. Essentially, the procedure involves shifting skin flaps with incisions in the hairline area and around the ear. The so-called large face-lift includes a tightening of all structures, i.e. skin and superficial musculoaponeurotic system (SMAS). The SMAS consists of a layer of degenerated muscles with connective tissue and extends from the temples to the neck."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "An effective facelift procedure starts with detaching the skin of the temple area, cheeks, and the lateral neck region from the underlying SMAS (superficial musculoaponeurotic system) layer while avoiding injury to the facial nerves. Then, the skin is brought under slight tension to the side above and sutured, after removing the excess. Meanwhile, the SMAS  is fixed to support the tightening. Volume adjustments can additionally be made using the patient's fat in the face, e.g. to slightly emphasise the cheekbone region (cheek augmentation). With this kind of double-layer lift, the durability of ten to fifteen years can be achieved.\nWhen weighing up the surgical procedure, between the mini-lift (also called S-lift) and the large lift, the age of the patient should, of course, be taken into consideration.\nIn my experience, younger patients only need a skin tightening, as there is generally no slackening of tissue or muscles. Through a well-positioned incision, the scars can remain invisible. The effect of such procedure only lasts for about 4-5 years, since the deep-lying supporting tissue remains untouched. Despite the critical discussion, the mini-lift is used very often because this technique is more comfortable for the patient and the recovery phase is considerably shorter.\nThe lower cheek and the neck areas are the parts of the face, which are particularly critical for women in their mid-forties and older. Thus, as part of the big lift, the neck is usually tightened in combination with the cheeks. It may also make sense to perform an isolated neck lift. For instances when patients complain of loose skin on the neck, hanging necks, or turkey necks. The supporting tissue can be tightened from a small incision below the chin, if necessary in combination with liposuction. For this procedure, the skin should still have enough elasticity to adapt to the neck without wrinkling after liposuction.\nThe large facelift is often combined with a forehead lift if the forehead and eyebrow area also need to be lifted. The classic forehead lift is performed through a coronary incision in a bow-shaped incision from ear to ear in the hairy area of the head. During this procedure, the skin in the entire forehead area, possibly up to the eyebrow line, is mobilised, tightened and the excess skin is removed. After the forehead lift, a fine, barely visible scar remains behind the hairline. In the case of a conspicuously high forehead, a pre hairline cut can be used since the other incision techniques would result in a higher forehead. The disadvantage of this procedure is a possibly visible scar directly in front of the hairline.\nMuch more elegant, however, a forehead lift can be performed using the most modern techniques based on endoscopy. This minimally invasive technique has dramatically changed the plastic surgery approach over the last decade. Using newly developed devices and special instruments, our procedures can be performed safely and effectively with only minimal incisions and scars. A maximum of three to five mini incisions is made in the hairy scalp through which a tiny video camera and the endoscopic tube for the special instruments are inserted to detach and move the forehead skin. In this way, the forehead, temples and eyebrows can be lifted, transverse and longitudinal wrinkles on the forehead as well as smaller wrinkles in the eye area can be smoothed. The new position of the forehead is fixed with two small short screws in the outer skull bone, which are painlessly removed after about a week. The current surgical results are impressive and certainly, promise further applications in the future."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "If you are a smoker, you should stop smoking at least 4 weeks before your appointment to avoid the risk of wound edge necrosis.\nFor the period of 14 days before the operation, you should avoid painkillers such as aspirin, as these delay blood clotting. If you wear your hair very short, you may want to let it grow a little to hide the operation scars."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "The procedure is usually performed as an inpatient. The necessary preliminary examinations will be carried out at the clinic on the day before your appointment. You will also have the opportunity to discuss the anaesthetic with the anaesthetist. Depending on the procedure, you should expect to stay in the hospital for 1 to 2 days."
+          },
+          {
+            "title": "What happens after the surgery?",
+            "subtitle": "The bandage and, if necessary, the drains are removed after one or two days and the stitches can usually be removed after 10 days. A compression bandage should be worn for 14 days postoperatively."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "After a major face or forehead lift, the sensation of the skin in front of the ears or on the forehead may be impaired. A possible post-operative haematoma can significantly delay the healing process and could therefore be removed by a minor surgical procedure. Under the strong tension of the facial skin, there may be occasional hair loss in the temple area. However, the hair will grow back over the next few months.\nBlood circulation disorders of the skin as a result of excessive nicotine consumption can lead to wound edge necrosis and conspicuous scars. That may require follow-up treatment. If bacterial infections appear, this can lead to wider scars due to delayed, secondary healing of the wound. That can be corrected by another minor operation. Damage to the facial nerves, which is almost impossible in expert hands, generally regenerates within 3 to 6 months. Occasionally, lesions of skin and muscle nerves may occur, but these regenerate on their own within weeks to months. Permanent facial muscle dysfunction caused by nerve injuries is an extremely rare complication."
+          },
+          {
+            "title": "What should be observed after the procedure?",
+            "subtitle": "You should not put any creams or ointments on your face during the first week after the operation. Make-up should also not be applied directly to the fresh scar. Remember, the skin helps itself best."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Surgery Duration",
+          "detail": "approx. 5 to 10 hours (depending on the procedure)."
+        },
+        "durationInClinic": {
+          "title": "Duration of stay in the clinic",
+          "detail": "Two days inpatient."
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "General anaesthesia."
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "Cooling, rest."
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "After 2 weeks."
+        }
+      }
+    },
+    "neck_lift": {
+      "title": "Neck Lift",
+      "general": {
+        "title": "Allgemeines zum Hals-Lift",
+        "content": "Besides the eyes, the neck area is one of the first regions where wrinkles appear and become visible. As part of the ageing process, fat deposits, which change the contour of the chin area as a double chin, can appear on the neck of many people. The reason for the development of wrinkles and fat deposits is the loss of the elastic fibres that are present in the soft parts of the skin. Extensive sunbathing, the force of gravity, various environmental influences and also genetic predispositions can sometimes be reasons why skin sagging appear on the chin and neck earlier in some people and later in others."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "With a neck lift, the natural contour of the neck can be reconstructed. The skin is tightened and the double chin is also removed by liposuction or fat resection so that a perfect result can be achieved in the end.\nTwo variants of the neck lift are possible—the vertical and the lateral neck lift. The aim of a lateral neck lift is to remove the excess skin and tighten the soft tissues. In this way, the already sagging muscles can be lifted. In a vertical neck lift, the plastic surgeon aims to reduce the overactive neck muscles that are visible on the surface.",
+        "sub": [
+          {
+            "title": "Lateral Neck Lift",
+            "content": "In a lateral neck lift, a periauricular incision is made. The incision runs in front of the earlobe, is guided backwards behind the ear and ends in the hairy part of the head. Then the neck skin can be carefully lifted so that the underlying muscle and soft tissue structures can move into their natural and original position. The skin excess will be removed. The fat pads are also removed in the further course of the operation by gentle liposuction or resection."
+          },
+          {
+            "title": "Vertical Neck Lift",
+            "content": "A vertical neck lift is performed below the chin. In the process, the superficial neck muscles, as well as the skin excess, will be removed. The skin is then tightened and the open wounds are closed with fine sutures. In both cases, the patient is given general anaesthesia."
+          }
+        ]
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "Before the operation, the patient should avoid oily bath additives. On the other hand, it is advisable to use ordinary soap or even normal shower gel. After the shower, the skin should not be treated with creams or ointments. A compression bandage should be worn for 14 days postoperatively. This will be adjusted in advance. If the patient is a smoker, he or she should stop smoking at least four weeks before the scheduled procedure."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "The procedure is usually performed as an inpatient. The necessary preliminary examinations will be carried out at the clinic on the day, before your appointment. You will also have the opportunity to discuss anaesthesia with the anaesthetist. Depending on the procedure, you should expect to stay in the clinic for 1 to 2 days."
+          },
+          {
+            "title": "What happens after the surgery?",
+            "subtitle": "Your face will certainly show some swelling and discolouration typical after an operation.\nAvoid exertion. This will help the wounds to heal better. Avoid the sun and sauna for six months.\nDepending on the method of surgery, you should be able to return to work after about two weeks."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "After a neck lift, the sensations of the skin may be impaired. A possible post-operative haematoma can significantly delay the healing process and could therefore be removed by a minor surgical procedure. Under the strong tension of the skin, there may be occasional hair loss in the back of the head. However, the hair will grow back over the next few months.\nBlood circulation disorders of the skin as a result of excessive nicotine consumption can lead to wound edge necrosis and conspicuous scars. That may require follow-up treatment. If bacterial infections appear, this can lead to wider scars due to delayed, secondary healing of the wound. That can be corrected by another minor operation. Occasionally, lesions of skin and muscle nerves may occur, but these regenerate on their own within weeks to months."
+          },
+          {
+            "title": "What should be observed after the procedure?",
+            "subtitle": "After the operation, the patient must sleep with the upper body elevated and must not exert any physical effort. Physical rest is one of the most important aspects after such an operation. After the neck lift, bruising, a feeling of tightness in the neck area and swelling may occur. These \"side effects\" are normal and should disappear by themselves after a few days.\n The stitches are removed after 5 or 14 days, depending on the suture technique. Make-up can only be applied after the stitches have been removed. Sports are prohibited for six to eight weeks. Any visits to the sauna should also be avoided for six months."
+          }
+        ]
+      },
+      "summary": {
+        "duration": { "title": "Surgery Duration", "detail": "aprox. 3 -4 hours." },
+        "durationInClinic": {
+          "title": "Duration of stay in the clinic",
+          "detail": "1-2 days inpatient."
+        },
+        "anasthesia": { "title": "Anaesthesia", "detail": "General anaesthesia." },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "Cooling, rest, removal of stitches after 5-14 days."
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "After approx. 1-2 weeks."
+        }
+      }
+    },
+    "eyelid_correction": {
+      "title": "Eyelid Surgery",
+      "general": {
+        "title": "Allgemeines zur Lidkorrektur",
+        "content": "The eyes are our most important contact organ for communication with the outside world and are known to be the mirror of the soul.\nEye contact is therefore one of the most intense and intimate encounters between individuals.\nHowever, if the eyes look tired and empty, even the most beautiful face loses its effect. A harmonious-looking, aesthetic eye area is achieved through the interaction of many individual components. The shape and texture of the eyelids, eyelashes and eyebrows play a decisive role. Unfortunately, age-related changes in the face manifest themselves most clearly in this area.\nThe general \"downward trend\" is decisive for the impression of age, whereby not only a drooping, sagging upper eyelid, but also drooping eyelids or bags under the eyes make the eyes appear small and powerless, even if the mood is actually positive. With a cosmetic surgical intervention in this area, this impairing sagging of the skin can be removed relatively quickly and successfully."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "The upper and lower eyelid lift is one of the most common operations, which is particularly desired by patients in middle and old age. In principle, eyelid lifting should only be carried out by an experienced surgeon, as subsequent corrections, for example in the case of ectropion formation (blepharoplasty), can lead to various complications. There are a number of possible surgical techniques available, whereby the choice of procedure depends on individual circumstances, the amount of skin and fatty tissue to be removed and, last but not least, the age of the patient. Depending on the procedure the surgery can be performed under local or general anaesthesia.\nThe remaining scar is no longer visible after healing, as it lies exactly in the crease of the upper eyelid that appears when the eye is open, and on the lower eyelid it runs directly along the lash line.\nAnother option for lower eyelid lifting is transconjunctival blepharoplasty. This elegant method has the advantage that no external skin incision is necessary if there is little excess skin and fat. The method via the conjunctiva is mainly favoured by younger patients, as only small amounts of fat usually have to be removed here."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "Before the operation, you will need an ophthalmological examination to rule out damage to the retina and the back of the eye. Please present the results at the preoperative examination.\nFor 14 days before the operation, you should not take any painkillers, such as aspirin, as these delay blood clotting.\nProcure a small supply of compresses and two to three soft cooling elements. No other preparations are necessary. However, you should be well-rested and without any make-up. You can bring dark sunglasses to hide and protect your eyes after the surgery."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "The procedure is mostly performed on an outpatient basis. You can leave the clinic after the procedure and be taken home.\nIf a more extensive procedure is planned (upper and lower eyelid lift), we recommend the procedure under general anaesthesia. For this, the necessary examinations must be carried out the day before your appointment and the anaesthesia will be discussed with the anaesthetist. This operation should also be combined with an inpatient stay."
+          },
+          {
+            "title": "What happens after the surgery?",
+            "subtitle": "Immediately after the operation, you will experience more or less severe swelling of your eyes, which will subside after 3-7 days. You will also have bruising around the eyes. The bruising settles in the lower eyelids and disappears within 7-10 days.\nYour palpebral fissure may appear slightly smaller, mainly due to the swelling. After a few weeks, however, this will disappear completely.\nIn some cases, the conjunctiva may become irritated, in which case decongestant eye drops should be used 3 times a day.\nWhen reading or sitting in front of the computer, you will initially have the impression that your eyes are tiring more quickly and may also dry out. This is completely normal, as the eye dries out more quickly in the first few weeks due to less frequent eyelid closure. Artificial tears in the form of eye drops can be used to help with this."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "Postoperative bleeding is extremely rare but can still occur 1 to 2 days after the operation.\nAfter the lower eyelid lift, depending on the extent of the haematoma and the individual scar formation, there may be a temporary slight drooping of the lower eyelid and an increased trickling of tears. This risk exists especially in older patients and in second operations. If these symptoms do not disappear within 6 weeks, a further minor operation may be necessary. In patients with a predisposition to excessive scarring, the incision lines may be somewhat rough and reddened for several weeks. In this case we will advise you on the appropriate aftercare."
+          },
+          {
+            "title": "What aftercare is required?",
+            "subtitle": "Be prepared to cover your eyes with moist compresses and ice packs for 1 to 3 days. This will help the swelling to subside more quickly.\nThe intradermal sutures are pulled out on the 7th day after the operation."
+          },
+          {
+            "title": "What should I take into account after the operation?",
+            "subtitle": "You should not apply any creams or ointments to your eyes during the first week after the operation. Make-up should also not be applied directly to the fresh scar. Remember, the skin helps itself best.\nTo conceal any bruising, it is best to wear dark sunglasses."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Surgery Duration",
+          "detail": "aprox. 1 -2 hours."
+        },
+        "durationInClinic": {
+          "title": "Duration of stay in the clinic",
+          "detail": "Outpatient possibly Inpatient."
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "Local anaesthesia, twilight sleep or general anaesthesia."
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "Cooling, rest, removal of stitches after 7 days."
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "After approx. 1-2 weeks."
+        }
+      }
+    },
+    "rhinoplasty": {
+      "title": "Rhinoplasty",
+      "general": {
+        "title": "Allgemeines zur Nasenkorrektur",
+        "content": "Regardless of age, body contouring procedures make it possible to harmonise the outer appearance. In the area of the head, these are nose corrections, earplasty and chin shaping\nThe goal of a nose correction is balanced facial features, through which an increased self-esteem is achieved. Sensitive empathy, many years of experience and a surgical technique without external scars are the basis of a successful correction. By using a special surgical technique from the inside of the nose, I avoid visible scars. Depending on the indication, either only the cartilaginous nasal skeleton or also the bony part of the nose is changed.\nWith precise preliminary discussion, the results desired by the patient can almost always be achieved by the nose correction. I use the elegant method of the closed technique, which avoids incisions at the nasal bridge."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "Rhinoplasty is an operation that intends to achieve one or more of the following goals:",
+        "list": [
+          {
+            "content": "The external appearance of a patient is improved by reducing, reshaping or altering the contour of the nose"
+          },
+          {
+            "content": "A nose previously altered by injury is straightened"
+          },
+          {
+            "content": "The nasal breathing may be improved"
+          }
+        ],
+        "extend": "You should remember that nose is not perfectly symmetrical. A nose is never exactly in the middle of the face, nor are both nostrils of the same size and shape. These differences remain to some extent even after the nose correction. This fact is also emphasised because some patients are less critical of their nose before the operation than after.\nMany patients fear that the correction of the nose will be so obvious that family or friends will notice it strongly. In most cases, however, the patient, relatives and friends will hardly remember the original shape of the nose after a few weeks. Aesthetic correction of the nose is one of the most common procedures performed by plastic surgeons. The patient's ideas are always taken into account, and my experience in terms of type, shape, contour and what is technically possible is also taken into account. Together with you, the whole face and the whole profile must always be included in the operation plan. For example, a small nose can look too big - relatively speaking - because of a small chin. Balance can only be achieved here by simultaneously enlarging the chin. In cases where, in addition to a chin that is too small, there is also a misalignment of the jaw or teeth, consultation with an oral surgeon is referred to prior to rhinoplasty. Please discuss your expectations of the operation in detail with me."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "As with all planned operations, you should not take any aspirin-containing medication for a fortnight before the operation, as this worsens blood clotting. You should continue to take all previously prescribed medication with my knowledge.\nAs a smoker, you should severely limit your nicotine consumption at least 4 weeks before your appointment to reduce the risk of wound healing problems. You should also avoid painkillers, such as aspirin, for 14 days before the operation, as these delay blood clotting."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "Rhinoplasty (nose correction) is performed with an in-patient stay. The procedure is usually performed under general anaesthesia. You should discuss the anaesthetic with your anaesthetist before the operation. Depending on the procedure, you should expect to stay in the hospital for 1 to 2 days."
+          },
+          {
+            "title": "What happens after the surgery?",
+            "subtitle": "You will be given mild painkillers and decongestant medication. Therefore, make any drug intolerance known before the operation. Immediately after the procedure, you will wake up with a plastic nose bandage and a light tamponade of the nose. The plastic nose bandage will remain in place for about a week, the tamponade usually for two days, during which time you will breathe through your mouth. The eyelids will be discoloured and swollen for about six days. Small bruises can be covered with cosmetics. Some numbness over the tip of the nose may persist for a few months. You will feel little pain, but will have the sensation of a cold for the first week. Blow your nose as gently as possible for four weeks. Care should also be taken not to subject the nose to blows during this time.\nAlthough the greatest effect is visible immediately, it is necessary to wait a few months before assessing the final result and breathing, as the nose is still swelling down. The result depends not only on age, internal scarring and the type of skin, but also on the thickness of the skin, as thick skin does not adhere as well to the new contour."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "Seriously, every patient must be informed that in rare cases complications can occur. As in all areas of medicine, no guarantee can be given for a certain success.\nAs with any operation, wound healing problems can lead to unsightly scars, permanent tension, pain and bruising as well as infections. As bleeding can occur up to two weeks after the operation, the nose should not be injured from the inside (avoid cotton swabs and fingers).\nPossible further complications are narrowed nasal passages, nasal asymmetry or thickening of the tip of the nose due to internal scarring. A crooked nose can be caused by displacement of the bone parts. In some patients, a second minor corrective operation to compensate for the internal scarring may be necessary after six months at the earliest. This is more often the case with patients who have already undergone surgery. Not all possible complications can be listed here. However, this information is not intended to frighten you, but rather to make your decision easier by providing you with serious information, as is the case with the package insert of medicines."
+          },
+          {
+            "title": "What follow-up treatment is necessary?",
+            "subtitle": "Postoperative bleeding is extremely rare, but can still occur 1 to 2 days after the operation. Be prepared to cover your eyes with moist compresses and ice packs for 1 to 2 days. This will help the swelling to go down more quickly. The intradermal stitches are pulled out on the 5th day after the operation."
+          },
+          {
+            "title": "What should I take care of after the operation?",
+            "subtitle": "You should not apply any creams or ointments to your eyes during the first week after the operation. Make-up should also not be applied directly to the fresh scar. Remember, the skin helps itself best. To conceal any bruising, it is best to wear dark sunglasses."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Surgery Duration",
+          "detail": "approx. 1.5 hrs."
+        },
+        "durationInClinic": {
+          "title": "Duration of stay in the clinic",
+          "detail": "one night inpatient."
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "General anaesthesia"
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "10-day nasal cast"
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "after 10 days"
+        }
+      }
+    },
+    "ear_correction": {
+      "title": "Ear Correction",
+      "general": {
+        "title": "Allgemeines zur Ohrkorrektur",
+        "content": "In contrast to oriental countries, where protruding ears are often interpreted as a sign of intelligence, in our latitudes they are rather a cause for amusement and teasing. Especially in childhood, this deformity leads to insecurity and feelings of inferiority. For psychological reasons, this operation should therefore be performed on children before they start school. This operation can also be performed later in life without any problems. Through a concealed incision behind the ear, the malformed cartilage at the edge of the ear is worked on in such a way that it can be fixed in the desired shape and the protruding ear can easily be placed in a natural position. To aid the healing process, a headband should be worn over the ears, especially at night, for 8 weeks."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "During an ear correction, the cartilage is reduced and reshaped through an incision behind the ear, or inside the auricular rim. In this way, the ear can also be replaced in its normal position. The procedure can be performed on children as young as 5 years old.\nThe ear correction procedure takes about 1 - 2 hours. It can be performed under local or general anaesthesia (especially for children). In most cases, ear correction is performed on an outpatient basis."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "You do not have to prepare specifically for the operation. However, it is good to get a wide, soft headband that you can then wear over your ears after the operation.\nYou should not take any painkillers containing acetylsalicylic acid, such as aspirin, for 10 days before the operation, or any other medication that can delay blood clotting and thus cause post-operative bleeding with damage to cartilage and skin."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "The operation can be performed on adults and school children under local anaesthesia. However, if you prefer general anaesthesia for yourself or your child, appropriate preliminary examinations for the anaesthesia must be carried out at the clinic a day before the operation. The anaesthetist will give you all the necessary explanations in a preliminary consultation. Children and adults who are operated on under local anaesthesia come to the clinic on the day of the operation and can leave the clinic the day after the operation. If there are no complications, the surgery can also be done on an outpatient basis."
+          },
+          {
+            "title": "What happens after the surgery?",
+            "subtitle": "Immediately after the operation, you can expect slight pain and possibly a bluish discolouration. Both will disappear within a few days. When sleeping and lying down, you should wear a soft headband for the first 6 weeks to prevent the auricle from bending. The ears will still be swollen and sensitive to touch. The plasters and the skin thread on the ear are removed after about 10 days. The final shape of the ear is only achieved after 2-3 months because of the residual swelling. The scar fades in the course of time and is later hardly recognisable. If the operation is carried out on an outpatient basis, please note that your reaction is temporarily impaired after the application of a sedative, painkiller or anaesthetic. Therefore, have yourself or your child picked up and ensure constant supervision for the first 24 hours."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "Despite the greatest care, isolated complications can occur during or after the operation. If you have severe pain after the operation, this may indicate a bandage that is too tight or a haematoma. This must then be checked by the doctor. A haematoma can be punctured in most cases and only requires a second operation in exceptional cases. A temporary disturbance of the sensation of touch is normal and disappears by itself after some time. Very rarely, if the patient has a predisposition, a scar proliferation develops in the scar, a so-called keloid, which presents itself as a thick, bulging, discoloured, painful and itchy scar. Cortisone injections, pressure bandages and later surgical removal help here, but this is associated with the risk of the keloid recurring. In rare cases, infection of the wound or the ear cartilage can occur, which delays healing. Very rare is damage to the skin or cartilage due to disruption of the blood supply. The risk is increased if previous procedures have been performed on the outer ear. Usually, these areas heal spontaneously. Surgical coverage of the defect is rarely necessary. All surgical procedures require the severing of fine skin nerves, which can lead to reduced sensation or insensitivity, especially to cold. This slowly recedes over several months but can be persistent in individual cases. In the rare case of intolerance of the suture material, the suture is rejected, causing the auricle to protrude again. The cosmetic results after auricular correction are usually good. No two ears are alike, either before or after the operation. For example, one ear may be larger than the other and protrude further. The cartilage structure may also be different from the other. Even after the operation, the result can still change due to scarring or the restoring forces of the cartilage, so that a deformation of the auricle can occur again. A second surgical procedure can correct the results again in such cases."
+          },
+          {
+            "title": "What follow-up treatment is required?",
+            "subtitle": "For up to 6 weeks after the operation, you should wear a headband when sleeping and lying down. The stitches will be removed one week after the operation."
+          },
+          {
+            "title": "What to consider after the operation?",
+            "subtitle": "You can expect to be unable to work or go to school for 3-4 days. You should refrain from sports for about six weeks. You should be careful when washing your hair and do not bend your ears for 6 weeks."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Surgery Duration",
+          "detail": "approx. 2 hrs."
+        },
+        "durationInClinic": {
+          "title": "Duration of stay in the clinic",
+          "detail": "Outpatient or one-night inpatient."
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "Local or general anaesthesia"
+        },
+        "postTreatment": {
+          "title": "",
+          "subtitle": ""
+        },
+        "sociable": {
+          "title": "",
+          "subtitle": ""
+        }
+      }
+    },
+    "chin_correction": {
+      "title": "Chin Correction",
+      "general": {
+        "title": "Allgemeines zur Kinnkorrektur",
+        "content": "The chin is an important feature of the appearance, which contributes decisively to the harmonious effect of the face shape. A chin, that does not conform to the norm, i.e. that is too far forward or recedes, is aesthetically very disturbing. Often, people with this anomaly have other conspicuous deviations of the facial profile. An underdeveloped chin is usually combined with a receding forehead and a humped nose. This profile then gives the impression of a bird's head and the patient's suffering is correspondingly strong. Experience shows that an enlargement of the chin has far-reaching consequences for the personality development and self-perception of these patients."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "A number of materials are available for chin augmentation, with silicone implants certainly playing the most important role. Commercially available are pre-formed, compact silicone masses with integrated adhesion channels, which fit the bone well and are fixed in the implantation bed under the periosteum by natural encapsulation. The surgical access route is the skin fold directly under the chin. However, the experienced surgeon will prefer the route through the oral mucosa via a small incision at the transition to the gums. A short period of immobilisation after the operation using plaster restraints is recommended in order to achieve an optimal, symmetrical result.\nThe same approach is chosen for chin reduction, whereby a harmonious profile contouring can be achieved here by simply removing the bone protrusion. However, in the case of a very prominent chin with simultaneous malocclusion of the teeth, a major maxillofacial surgery must be performed to adequately solve this problem."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "You should not take any painkillers containing acetylsalicylic acid, such as aspirin, for 10 days before the operation, or any other medication that can delay blood clotting and thus cause postoperative bleeding."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "The operation is performed under general anaesthesia. Appropriate preliminary examinations for anaesthesia will be carried out the day before at the clinic. The anaesthetist will give you all the necessary explanations in a preliminary consultation. The operation can be performed as an outpatient or, depending on the extent, as an inpatient."
+          },
+          {
+            "title": "What happens after the surgery?",
+            "subtitle": "Immediately after the operation, you can expect slight pain and possibly a bluish discolouration. Both will disappear within a few days. Plaster bandages fitted during the operation will remain in place for 3 days. When sleeping and lying down, you should lie on your back with your upper body slightly elevated for the first 6 weeks.\nIn addition, the chin will still be swollen and sensitive to touch until then.\nThe stitches will be removed after approx. 7 days if they have not fallen off on their own by then. The final shape of the chin is only achieved after 1 year because of the residual swelling. The scar fades over time and is later hardly recognisable."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "Despite the greatest care, isolated complications can occur during or after the procedure. A temporary disturbance of the touch sensation is normal and disappears by itself after some time. In rare cases, infection of the wound can occur, which delays healing. Very rarely, damage to the skin is caused by disruption of the blood supply. The risk is increased if previous operations have been performed on the chin. Usually these areas heal spontaneously. Surgical coverage of the defect is rarely necessary. All surgical procedures require the severing of fine skin nerves, which can lead to reduced sensation or insensitivity, especially to cold. This slowly recedes over several months, but can be persistent in individual cases. It can also happen that the implant has to be removed again in the case of pronounced wound healing problems.\nThe cosmetic results after a chin correction are usually good. Even a longer time after the operation, small bone irregularities may appear.\nIn such cases, the results can be corrected again by a second surgical intervention."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Surgery Duration",
+          "detail": "1 hr"
+        },
+        "durationInClinic": {
+          "title": "Duration of stay in the clinic",
+          "detail": "Outpatient or inpatient"
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "General anaesthesia."
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "Cooling, lymphatic drainage, physical rest for approx. 10 days"
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "after 10-14 days"
+        }
+      }
+    }
+  },
+  "chest_area": {
+    "title": "Chest Area",
+    "breast_augmentation": {
+      "title": "Breast Augmentation",
+      "general": {
+        "title": "Allgemeines zur Brustvergrößerung",
+        "content": "A lack of breast volume, whether due to a breast that remained small after puberty or due to involution and sagging after weaning, can be compensated by inserting implants. The previously impaired self-esteem is decisively raised by a beautiful, larger breast.\nHowever, there is no such thing as an ideal breast in the actual sense. In breast augmentation, the surgeon considers the patient's anatomical conditions, the individually available procedures and implant shapes to achieve the best possible results."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "Silicone implants with different filling materials are used. With the textured implant surface, the risk of capsule formation with sometimes painful hardening of the breast is significantly reduced. There is currently a choice of filling substances such as saline solution and silicone gel. Soya oil, which was offered in the past, was withdrawn from the market in 1999 because of undesirable side effects. The hydrogel was also withdrawn in Great Britain in December 2000 due to a lack of long-term studies that could prove its safe use.\nWhich implant is ultimately used should be decided by the attending physician in consultation with the patient. We recommend only cross-linked silicone gel-filled prostheses to our patients and use only the highest quality and safest brand products. Due to an outstanding variety of advantages, such as pleasant, soft consistency, thorough medical research and excellent stability, these products have proven their worth over decades. The discussions in the media about the harmfulness of silicone or the implants bursting when diving or in an aeroplane are finally a thing of the past. Silicon as a component of silicone is the second most common element on earth and one of the most intensively researched materials in medicine. It has undergone extensive safety testing and is also widely used in the pharmaceutical and food processing industries in a harmless way.\nAlternatives such as saline or hydrogel are more fluid than silicone gel and therefore inelastic with unsatisfactory tactile sensation or continuous for the implant shell, so that, unlike silicone gel, there can be undesirable volume fluctuations.\nIn 2017, a rare form of lymphoma, Breast Implant-Associated Anaplastic Large Cell Lymphoma (BIA-ALCL), caused by textured implants was reported. Due to this observation, the macrotextured implants were withdrawn from the market. \nDifferent shapes are used. There are round, transverse oval teardrop and anatomically shaped implants that are implanted either above or below the pectoral muscle. Access can be from a small incision in the breast fold, axillary or at the areola.\nThe procedure for the best result depends on the given breast shape, the thickness of the breast gland tissue and, last but not least, the individual wishes of the patient. To achieve an optimal breast shape, an additional breast lift may occasionally be necessary."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "In some cases, it may be useful to have a mammography and an ultrasound examination before the operation to be able to detect any tissue changes before the operation. For a period of 14 days before the operation, you should avoid painkillers such as aspirin, as these delay blood clotting."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "The operation is performed as an inpatient. Under general anaesthesia. The necessary preliminary examinations are carried out at the clinic on the day before your appointment. This will also give you the opportunity to discuss the anaesthesia with the anaesthetist.\nDepending on the procedure, a hospital stay of 1 to 3 days is to be expected."
+          },
+          {
+            "title": "What happens after the surgery?",
+            "subtitle": "Immediately after surgery, you will experience mild to moderate pain for the next two days. As with any surgical procedure, there will be more or less severe swelling and bruising. Which will disappear within days to several weeks. The incisions leave small scars, but these will fade over time and will hardly be recognisable. A final result can only be assessed after 6 to 9 months in most cases."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "With the natural healing process, a capsule forms around the implant. Depending on your disposition, this capsule can harden (Capsular Fibrosis), making the breast feel firmer than normal. Such hardening can vary in severity and, in the worst cases, can lead to pain, displacement of the implant or deformation of the breast. In rare cases (about 5%), a new operation is necessary to widen the implant site or replace the implant.\nLike all plastics, silicone pads are subject to certain material fatigue, which can lead to defects in the covering. Moreover, the implants can also be injured and burst as a result of breast trauma, e.g. due to serious accidents. The double-walled covering offers a high degree of protection in this case, but it can still happen that filling material leaks into the surrounding tissue. In the case of implants with saline filling, this is completely harmless, as saline is completely absorbed by the body within a few hours. With other filling materials, so-called siliconomas can develop after months or years due to tissue reactions.\nDepending on the position of the skin incision, the feeling at the nipple can be temporarily impaired, especially with large implants. In exceptional cases, wound healing problems, haematomas, infections and seroma formations can occur, which can lead to the implant having to be temporarily removed.\nIf you are a woman of an age where you have regular mammography examinations, you should always inform your doctor about your breast implant, as it can affect the examination results.\nPostoperative bleeding is extremely rare but may still occur 1 to 2 days after surgery."
+          },
+          {
+            "title": "What follow-up treatment is required?",
+            "subtitle": "It is recommended to wear a compression bra for 6 weeks after surgery."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Surgery Duration",
+          "detail": "approx. 1 to 2 hours (depending on the procedure)"
+        },
+        "durationInClinic": {
+          "title": "Duration of stay in the clinic",
+          "detail": "1 to 3 days"
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "General anaesthesia"
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "6 weeks compression bra, if necessary Stuttgart belt"
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "after 14 days"
+        }
+      }
+    },
+    "breast_reduction": {
+      "title": "Breast Reduction",
+      "general": {
+        "title": "Allgemeines zur Brustverkleinerung",
+        "content": "Very large, sagging breasts can not only affect a woman's body image but also cause pain in the shoulder and neck area with changes in the thoracic spine. Measures such as exercise or diet can hardly influence the size and weight of an oversized or sagging breast. To achieve a firm, youthful-looking breast shape, a surgical procedure is therefore unavoidable."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "In principle, this operation can be carried out at any age and has a clearly positive effect on the overall body proportions.\nIn the case of reduction (reductionplasty), the excess lower and lateral part of the skin is removed together with the breast gland tissue, whereas in the case of lifting (mastopexy), the breast gland is completely left in place with a clear reduction of the excessively large skin. In most cases, a simultaneous correction of the position and size of the areola is necessary.\nBy preserving the blood vessels and nerves at the nipple, the sensation, as well as the ability to breastfeed, is generally not restricted. The scar pattern in the classic standard method is also called an anchor-shaped or inverted T incision with a vertical scar and a transverse scar in the breast fold.\nDepending on the size of the breast and the elasticity of the skin, a minor-scar technique (according to Lejour) with a vertical gathering suture can also be used, in which the transverse scar in the breast fold can be dispensed with. Thanks to the shrinking tendency of the elastic skin, the pleated gathered suture is completely smoothed out in the following weeks.\nWith the T-incision, the patient can see the result immediately after the operation, with the minor-scar technique it takes about 2-3 months to achieve the final result."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "In some cases, it may be useful to have a mammogram and ultrasound scan before surgery to detect any tissue changes before the procedure."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "Immediately after the surgery and during the next few days, you will experience mild pain. Besides, as after any surgical procedure, there will be more or less swelling and bruising, but this will disappear over several days and weeks.\nThe sensitivity of your nipples to touch may also be affected at first after the procedure, and it may take months before you feel normal again. A final result can be assessed after about 6 months in most cases. The scars and any hardening in the tissue will even improve over the following 1 to 2 years, eventually becoming inconspicuous, though not invisible."
+          },
+          {
+            "title": "What happens after the surgery?",
+            "subtitle": "Immediately after the operation and during the next few days you will feel slight pain. As after any surgical procedure, there will be more or less swelling and bruising, but this will disappear over the course of several days and weeks.\nThe sensitivity of your nipples to touch may also be affected at first after the procedure, and it may take months before you feel normal again. A final result can be assessed after about 6 months in most cases. The scars and any hardening in the tissue will even improve over the following 1 to 2 years, eventually becoming inconspicuous, though not invisible."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "As with any surgery, wound healing problems can result in unsightly scars, permanent tension, pain and bruising, and infection. The postoperative healing process may cause slight differences in the shape of the breast due to changes in the affected skin and tissue regions. Such changes can be corrected by a further minor operation.\nEspecially with large reduction weights of more than 500 g per side, a loss of sensibility at the nipple cannot be excluded. In very rare cases, circulatory disorders can cause tissue necrosis (also in the nipple area). In such cases, the affected tissue would have to be replaced by the body's own skin with a new operation.\nPost-operative bleeding is extremely rare, but may still occur 1 to 2 days after surgery."
+          },
+          {
+            "title": "What follow-up treatment is required?",
+            "subtitle": "It is recommended to wear a compression bra for 6 to 12 weeks after surgery."
+          },
+          {
+            "title": "What should be observed after the operation?",
+            "subtitle": "During the first few weeks, you should move your upper arms very carefully and avoid rapid stretching and extension. It is also important that you do not sleep on your stomach under any circumstances, but in the supine position, so as not to disturb the internal wound healing."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Surgery Duration",
+          "detail": "approx. 2 to 4 hours (depending on the procedure)"
+        },
+        "durationInClinic": {
+          "title": "Duration of stay in the clinic",
+          "detail": "1 to 3 days"
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "General anaesthesia"
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "6 to 12 weeks compression bra."
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "after 14 days"
+        }
+      }
+    },
+    "breast_lift": {
+      "title": "Breast Lift",
+      "general": {
+        "title": "Allgemeines zur Bruststraffung",
+        "content": "Very large, sagging breasts can not only affect a woman's body image but also cause pain in the shoulder and neck area with changes in the thoracic spine. Measures such as exercise or diet can hardly influence the size and weight of an oversized or sagging breast. To achieve a firm, youthful-looking breast shape, a surgical procedure is therefore unavoidable."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "In principle, this operation can be carried out at any age and has a clearly positive effect on the overall body proportions.\nIn the case of reduction (reductionplasty), the excess lower and lateral part of the skin is removed together with the breast gland tissue, whereas in the case of lifting (mastopexy), the breast gland is completely left in place with a clear reduction of the excessively large skin. In most cases, a simultaneous correction of the position and size of the areola is necessary.\nBy preserving the blood vessels and nerves at the nipple, the sensation, as well as the ability to breastfeed, is generally not restricted. The scar pattern in the classic standard method is also called an anchor-shaped or inverted T incision with a vertical scar and a transverse scar in the breast fold.\nDepending on the size of the breast and the elasticity of the skin, a minor-scar technique (according to Lejour) with a vertical gathering suture can also be used, in which the transverse scar in the breast fold can be dispensed with. Thanks to the shrinking tendency of the elastic skin, the pleated gathered suture is completely smoothed out in the following weeks.\nWith the T-incision, the patient can see the result immediately after the operation, with the minor-scar technique it takes about 2-3 months to achieve the final result."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "In some cases, it may be useful to have a mammogram and ultrasound scan before surgery to detect any tissue changes before the procedure."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "Immediately after the surgery and during the next few days, you will experience mild pain. Besides, as after any surgical procedure, there will be more or less swelling and bruising, but this will disappear over several days and weeks.\nThe sensitivity of your nipples to touch may also be affected at first after the procedure, and it may take months before you feel normal again. A final result can be assessed after about 6 months in most cases. The scars and any hardening in the tissue will even improve over the following 1 to 2 years, eventually becoming inconspicuous, though not invisible."
+          },
+          {
+            "title": "What happens after the surgery?",
+            "subtitle": "Immediately after the operation and during the next few days you will feel slight pain. As after any surgical procedure, there will be more or less swelling and bruising, but this will disappear over the course of several days and weeks.\nThe sensitivity of your nipples to touch may also be affected at first after the procedure, and it may take months before you feel normal again. A final result can be assessed after about 6 months in most cases. The scars and any hardening in the tissue will even improve over the following 1 to 2 years, eventually becoming inconspicuous, though not invisible."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "As with any surgery, wound healing problems can result in unsightly scars, permanent tension, pain and bruising, and infection. The postoperative healing process may cause slight differences in the shape of the breast due to changes in the affected skin and tissue regions. Such changes can be corrected by a further minor operation.\nEspecially with large reduction weights of more than 500 g per side, a loss of sensibility at the nipple cannot be excluded. In very rare cases, circulatory disorders can cause tissue necrosis (also in the nipple area). In such cases, the affected tissue would have to be replaced by the body's own skin with a new operation.\nPost-operative bleeding is extremely rare, but may still occur 1 to 2 days after surgery."
+          },
+          {
+            "title": "What follow-up treatment is required?",
+            "subtitle": "It is recommended to wear a compression bra for 6 to 12 weeks after surgery."
+          },
+          {
+            "title": "What should be observed after the operation?",
+            "subtitle": "During the first few weeks, you should move your upper arms very carefully and avoid rapid stretching and extension. It is also important that you do not sleep on your stomach under any circumstances, but in the supine position, so as not to disturb the internal wound healing."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Surgery Duration",
+          "detail": "approx. 2 to 4 hours (depending on the procedure)"
+        },
+        "durationInClinic": {
+          "title": "Duration of stay in the clinic",
+          "detail": "1 to 3 days"
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "General anaesthesia"
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "6 to 12 weeks compression bra."
+        },
+        "sociable": {
+          "title": "",
+          "subtitle": ""
+        }
+      }
+    },
+    "breast_asymetric": {
+      "title": "Breast Asymmetry Correction",
+      "general": {
+        "title": "Allgemeines zur Brustasymmetriekorrektur",
+        "content": "Breast asymmetry is a difference in the size or shape of the breasts. A difference in the size of the breasts exists in almost all women, but it is particularly pronounced in some. Breast asymmetry often occurs in combination with other breast malformations such as tubular or trunk breasts."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "Depending on the asymmetry present and the patient's wishes, an adjustment can be made either by reducing the size of the larger side or by increasing the size of the smaller side. Most often, a combination is performed in which one side is enlarged and the opposite side is lifted. The operation is usually done under general anaesthesia. The duration of the operation varies depending on the procedure chosen.\nTo choose the best procedure for you in each case, we take a lot of time for a detailed preliminary discussion before the operation. Here, all details are discussed and the medical options are brought into line with your ideas."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "In some cases, it may be useful to have a mammography and an ultrasound examination before the operation to detect any tissue changes before the operation. For a period of 14 days before the operation, you should avoid painkillers such as aspirin, as these delay blood clotting."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "The operation is performed as an inpatient. The necessary preliminary examinations will be carried out at the clinic on the day before your appointment. On the day of the operation, the incision lines will be marked preoperatively. The operation is followed by a 2- to 3-day stay in the clinic."
+          },
+          {
+            "title": "What happens after the surgery?",
+            "subtitle": "Immediately after surgery, you will experience Operations Dependent mild to moderate pain for the next two days. As with any surgical procedure, there will be more or less severe swelling and bruising, but this will disappear within days to several weeks. The incisions leave small scars, but these will fade over time and will hardly be recognisable. A final result can only be assessed after 6 to 9 months in most cases."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "The risks correspond to those of a pure breast augmentation with implant as well as a pure breast lift. Wound pain, feelings of tension and discolouration of the skin can always occur and usually disappear after a few days. In addition to the general surgical risks such as bleeding, scarring, infection and thrombosis, capsular fibrosis is the most common risk when an implant is inserted. This is a hardening of the connective tissue capsule around the implant, which can lead to pain. It usually occurs many years after the operation and can lead to the implant having to be changed."
+          },
+          {
+            "title": "What to consider after the operation?",
+            "subtitle": "Depending on the extent of the surgery, it may be advisable to wear a compression bra for the first six to twelve weeks after breast surgery. Heavy physical exertion and extensive sport should be avoided during this time. Light physical activities can be resumed a few days after your operation. Moderate sport is possible again after 6 to 12 weeks."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Surgery Duration",
+          "detail": "approx. 2 to 4 hours (depending on the procedure)"
+        },
+        "durationInClinic": {
+          "title": "Duration of stay in the clinic",
+          "detail": "1 to 3 days"
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "General anaesthesia"
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "6 to 12 weeks compression bra, if necessary Stuttgart belt"
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "after 14 days"
+        }
+      }
+    },
+    "breast_reconstruction": {
+      "title": "Breast Reconstruction",
+      "general": {
+        "title": "Allgemeines zur Brustrekonstruktion",
+        "content": "If removal of the entire breast has become necessary due to cancer, our entire effort is directed towards the principle of preserving the physical integrity of the affected patients as best as possible. Although prostheses as inserts in the bra are a common aid, they only influence the outer appearance and do not always help to overcome the loss of the breast. The constant worry about the prosthesis slipping out of place in public clearly affects the general well-being.\nTo fully regain one's self-esteem and feel secure in everyday life again, we offer our patients the option of breast reconstruction. Today, there are a variety of options, and the patient can decide together with the doctor which procedure is right for her."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": [
+          {
+            "title": "Reconstruction with a silicone implant or tissue expander",
+            "content": "If sufficient excess skin remains after breast implantation, an implant can be inserted for immediate reconstruction if a smaller breast shape is desired. In certain cases, however, it may be necessary to pre-expand the tissue by means of a silicone sleeve (expander) which can be filled with saline via a valve.\nIf the skin is sufficiently expanded after 3 months, the expander can be exchanged for a definitive silicone implant. This can be placed either between the skin and the pectoral muscle (subcutaneous) or under the pectoral muscle (submuscular). The disadvantage of subcutaneous placement is the visibility and palpability of the implant with the increased risk of capsular fibrosis of about 25%. The submuscular position therefore offers better soft tissue coverage of the implant with a significantly lower rate of capsular fibrosis of less than 10%, but can comparatively lead to an undesirable rounder shape."
+          },
+          {
+            "title": "Reconstruction with own tissue",
+            "content": "The aim of breast reconstruction with autologous tissue is not only to compensate for the existing skin deficit but also to achieve almost complete symmetry to the opposite side by restoring the breast contour. Various methods are available. Pure skin flaps from the upper abdomen (abdominal advancement) with rather unsatisfactory cosmetic results or skin fat flaps from the abdominal or buttock region (DIEP or S-GAP flap) freely transferred on a vascular pedicle can be used.\nHowever, it must be taken into account that the tissue of the chest wall, including the connecting vessels running there, may show severe hardening with reduced blood circulation due to any necessary post-radiation. In these cases, a free tissue transfer with microsurgical vessel connection would involve too high a risk of total skin flap loss.\nThe skin muscle flaps from the back (latissimus dorsi-flap) or from the abdomen (TRAM-flap) offer greater safety. They are very suitable for breast reconstruction and leave unproblematic, cosmetically acceptable scars in the area of removal. The latissimus dorsi is a large, flat muscle of the back, which in its lower attachment is detached from a small island of skin and pivoted towards the chest wall. The upper vascular pedicle is not severed in the process, so that the blood supply is permanently guaranteed. In order to achieve a correspondingly large breast volume, an additional breast implant may be necessary under the muscle flap. Movement restrictions due to the absence of the muscle on the back do not occur.\nThe TRAM abdominal skin flap is recommended for patients who offer an excess of skin fat tissue in the lower abdominal area, e.g. due to pregnancy or dietary reasons. By detaching a longitudinal strip of muscle that contains the feeding vessels for the abdominal flap, a comparatively large piece of skin can be swung up towards the chest wall and formed into a new breast. A pleasant side effect of this operation is the tummy tuck, which is generally very welcomed by patients.\nThanks to the thus abundant skin fat tissue available, an additional implant can be dispensed with in breast reconstruction. In the case of very large breasts on the healthy opposite side, an additional approximation reduction can be carried out if desired.\nThanks to the thus abundant available skin fat tissue, an additional implant can be dispensed with in breast reconstruction. In the case of very large breasts on the healthy opposite side, an additional approximation reduction can be carried out if desired.\nFor the reconstruction of the nipple, the upper part is removed tangentially from the healthy side and implanted in the appropriate place on the opposite side. The region of removal heals without any problems and the areola can be reconstructed by tattooing in the appropriate individual skin colour and size. This way, there are no additional scars or tissue losses, because in our opinion, using skin from the pubic area or other regions is unnecessary and offers no cosmetic advantages."
+          }
+        ]
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "The patients should have a mammogram and an ultrasound scan before the operation to detect any tissue changes before the procedure.\nIf you are a smoker, you should severely limit your nicotine consumption at least 4 weeks before your appointment to reduce the risk of wound healing problems. You should also avoid painkillers, such as aspirin, for 14 days before your operation as they delay blood clotting."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "The procedure is performed as an inpatient. The necessary preliminary examinations will be carried out at the clinic on the day before your appointment. You will also have the opportunity to discuss anaesthesia with the anaesthetist. Depending on the procedure, a hospital stay of 7 to 14 days is to be expected."
+          },
+          {
+            "title": "What happens after the surgery?",
+            "subtitle": "Immediately after the operation and during the next few days you will feel slight pain. In addition, as after every surgical procedure, there will be more or less severe swelling and bruising, but this will disappear over the course of several days and weeks.\nA final result can be assessed after about 6 months in most cases. The scars and any hardening in the tissue improve even during the following 1 to 2 years, so that they eventually become inconspicuous, although not invisible."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "As with any surgery, wound healing problems can cause unsightly scars, permanent tension, pain and bruising, as well as infection. It can also happen that the transplanted tissue does not heal and therefore has to be partially or completely removed again in a further operation."
+          },
+          {
+            "title": "What follow-up treatment is required?",
+            "subtitle": "Postoperatively, you should wear a compression bra for 6-12 weeks, depending on the surgical technique."
+          },
+          {
+            "title": "What should be observed after the operation?",
+            "subtitle": "During the first few weeks, you should move your upper arms very carefully and avoid rapid stretching. It is also important that you do not sleep on your stomach under any circumstances, but in the supine position, so as not to disturb the internal wound healing."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Surgery Duration",
+          "detail": "approx. 2 to 12 hours (depending on the procedure)"
+        },
+        "durationInClinic": {
+          "title": "Duration of stay in the clinic",
+          "detail": "7 to 14 days"
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "General anaesthesia"
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "6 weeks compression bra, if necessary Stuttgart belt"
+        },
+        "sociable": {
+          "title": "",
+          "subtitle": ""
+        }
+      }
+    },
+    "breast_reduction_man": {
+      "title": "Breast Reduction Man",
+      "general": {
+        "title": "Allgemeines zur Brustverkleinerung",
+        "content": "Breast tissue enlargening in men can have different causes. Growths of the glandular tissue, malignant tumours, side effects of medication, hormonal disorders or constitutional fat distribution disorders are mainly responsible. Careful diagnostics should always be carried out before corrective surgery. This includes mammography, various laboratory tests and an additional urological examination. In most cases, it is a benign proliferation of the glandular tissue behind the nipple. Purely diet-related fat accumulation also occurs but is then called pseudogynaecomastia by definition."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "The surgical concept involves the removal of excess tissue. If there is a high proportion of fatty tissue, liposuction can be used to remove this excess. If there are more glandular, coarse structures, this tissue must be cut out through a small incision at the edge of the areola or in the natural breast fold (subcutaneous mastectomy). Depending on the size of the breast formation, in rare cases, it may also be necessary to reduce the size of the areola and move it upwards to restore a cosmetically satisfactory male breast shape."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "It is useful to have a mammogram and ultrasound scan before the operation to detect any tissue changes before the procedure. If you are a smoker, you should severely limit your nicotine consumption at least 4 weeks before your appointment to reduce the risk of wound healing problems. You should also avoid painkillers, such as aspirin, for 14 days before your operation as they delay blood clotting."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "The operation is performed as an outpatient or inpatient procedure, depending on the severity of the findings. The necessary preliminary examinations will be carried out at the clinic on the day before your appointment. You will also have the opportunity to discuss anaesthesia with the anaesthetist. Depending on the procedure, a hospital stay of up to 3 days is to be expected."
+          },
+          {
+            "title": "What happens after the surgery?",
+            "subtitle": "Immediately after the operation and during the next few days you will feel slight pain. As after every surgical procedure, you will experience more or less severe swelling and bruising, but this will disappear over the course of several days and weeks. The sensitivity of your nipples to touch may also be affected at first after the procedure, and it may take months before you feel normal again. A final result can be assessed after about 6 months in most cases. The scars and any hardening in the tissue will even improve over the following 1 to 2 years, eventually becoming inconspicuous, though not invisible."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "As with any surgery, wound healing problems can result in unsightly scars, permanent tension, pain and bruising, and infection. Due to the postoperative healing process, slight differences in the shape of the breast may occur as a result of changes in the affected skin and tissue regions. If additional liposuction is performed, dimpling and rippling may occur. Such changes can be corrected by another minor operation. In very rare cases, circulatory disorders can cause tissue (also in the area of the nipples) to be rejected. In this case, a new operation would have to replace the affected tissue with the body's own skin."
+          },
+          {
+            "title": "What follow-up treatment is required?",
+            "subtitle": "Already a few days after the operation your normal condition is largely restored and after 3 to 4 weeks you are fully able to work again. Postoperatively, you should wear a compression garment for 6 to 12 weeks, depending on the surgical technique."
+          },
+          {
+            "title": "What to consider after the operation?",
+            "subtitle": "During the first few weeks, you should move your upper arms very carefully and avoid rapid stretching. It is also important that you do not sleep on your stomach under any circumstances, but in the supine position, so as not to disturb the internal wound healing."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Surgery Duration",
+          "detail": "approx. 1 to 2 hours (depending on the procedure)"
+        },
+        "durationInClinic": {
+          "title": "Duration of stay in the clinic",
+          "detail": "1 to 3 days"
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "General anaesthesia"
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "6 weeks compression garment"
+        },
+        "sociable": {
+          "title": "",
+          "subtitle": ""
+        }
+      }
+    }
+  },
+  "body": {
+    "title": "Body",
+    "liposuction": {
+      "title": "Liposuction",
+      "general": {
+        "title": "Allgemeines zur Fettabsaugung",
+        "content": "For most of us, a look in the mirror is like a look at our self-confidence. Fat deposits in unwanted areas usually give people reason to feel uncomfortable with their own bodies. More or less pronounced deformities of the body silhouette can be partly diet-related, but can also be based on genetic predispositions. The changing ideal of beauty, partly influenced by the media, certainly plays a significant role when considering one's own body contour. However, there is a consensus that a well-proportioned body with firm skin without cellulite is more pleasing to the eye of the respective observer than pronounced fat deposits on wavy skin with contractions caused by fat cell packages strung together like grapes."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "In many cases, stubborn fat deposits cannot be eliminated, even by strict diets, fitness activities and special cellulite treatments. This is where liposuction can lead to excellent, lasting improvements in body image. Excess fat cells are removed through very short, barely visible incisions in the skin with the help of thin suction cannulas and an apparatus-generated negative pressure. Beforehand, the fatty tissue is flushed out by injecting a special blood- and pain-relieving fluid, which improves the liposuction process.\nTo support the healing process, we recommend wearing a compression garment for 6-8 weeks after the operation. In principle, the treatment can be carried out on any part of the body and at any age, provided that the skin still has sufficient elasticity of its own.\nFor minor corrections, the procedure is usually carried out on an outpatient basis under local anesthesia. You will be given an infusion with painkillers so that you won’t feel the operation. You can leave the clinic after the operation. .\nFor larger operations, a general anesthesia is necessary. The necessary preliminary examinations are carried out at the clinic by appointment. You will also have the opportunity to discuss the anesthesia with the anesthetist. Depending on the procedure, a hospital stay of 1 to 3 days is to be expected."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "You do not need to make any special preparations for the operation. You should not take any painkillers, such as aspirin, for 14 days before the operation, as these delay blood clotting."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "The necessary preliminary examinations will be carried out at the clinic by appointment. You will also have the opportunity to discuss the anesthesia with the anesthetist. Depending on the procedure, you should expect to stay in hospital for 1 to 3 days."
+          },
+          {
+            "title": "What happens after the operation?",
+            "subtitle": "As with any surgical procedure, swelling of the affected areas is completely normal. However, these will disappear within 3 months. In most cases, the result can only be assessed after 6 to 9 months. The skin incisions leave small scars that will fade over time and will hardly be recognizable."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "Postoperative bleeding is extremely rare, but may still occur 1 to 2 days after the operation. After liposuction, there may be a change in the sensibility of the skin—like numbness for several weeks. If you have a predisposition to this or if you do not wear the compression garment consistently, bruising or scar plates may occur. These will be visible as superficial bumps. If these do not disappear (or disappear only very slowly) after several weeks, another small operation may be necessary. If larger amounts of fatty tissue are removed, there may be an increased loss of tissue fluid or blood, which must be compensated for by infusions or blood preservations."
+          },
+          {
+            "title": "What aftercare is required?",
+            "subtitle": "Be prepared to wear a compression garment day and night for the first 12 weeks after the operation. This is the only way to avoid unwanted scars in the resulting cavities caused by blood, dissolved fat or tissue fluid, which can significantly affect the result. The stitches can be removed 1 week after the operation."
+          },
+          {
+            "title": "What do I need to be aware of after the operation?",
+            "subtitle": "Normally, you will hardly feel affected in your well-being and mobility. However, depending on the type and extent of the liposuction, you should avoid any physical activity for the first few weeks after the operation. Massages and other excessive exertion should also be avoided."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Duration of surgery",
+          "detail": "2 to 5 hours (depending on the procedure)"
+        },
+        "durationInClinic": {
+          "title": "Duration of stay in the clinic",
+          "detail": "1 to 3 days"
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "General anaesthesia"
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "12 weeks after the operation compression garment (day and night)."
+        },
+        "sociable": {
+          "title": "",
+          "subtitle": ""
+        }
+      }
+    },
+    "tummy_tuck": {
+      "title": "Abdominoplasty (Tummy-tuck)",
+      "general": {
+        "title": "Allgemeines zur Bauchdeckenstraffung",
+        "content": "For most of us, a look in the mirror is like a look at our self-confidence. Excess skin in undesirable areas usually gives people reason to feel uncomfortable in their own bodies. More or less pronounced deformities of the body silhouette can partly be caused by nutrition, but can also be based on family predispositions. The changing ideal of beauty, partly influenced by the media, certainly plays a significant role when considering one's own body contour. However, there is a general consensus that a well-proportioned body with firm skin without cellulite is more pleasing to the eye of the beholder than a visible skin excess."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "In abdominoplasty, we distinguish between a lower abdominoplasty and an extended abdominoplasty with an upper abdominoplasty including the belly. In each case, the scars run along optically favourable, covered areas. These are at the pubic hairline or around the belly button.\nThe excessive and sagging skin and fat tissue is precisely measured and surgically removed. In addition, the aesthetic body contour can be improved during the procedure by targeted liposuction of adjacent areas. Depending on the condition of the abdominal wall, abdominal wall reconstruction may be necessary. This is often necessary after pregnancies, as the overstretching of the abdominal wall often results in a so-called bulbous abdomen."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "Before surgical removal of skin and fatty tissue, all other possibilities for weight loss should be exhausted. The closer you are to your ideal weight, the more favourable the surgical result will be. You can protect your skin before the operation by taking special care of it and stimulate the circulation by taking cold showers.\nIf you have skin inflammations, you must treat them before the surgery. In addition, you should not take any painkillers, such as aspirin, for 14 days before the operation, as these delay blood clotting."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "A general anesthesia and a stay in hospital are necessary. This will be between 1 and 3 days."
+          },
+          {
+            "title": "What happens after the operation? ",
+            "subtitle": "Immediately after the operation you will need painkillers to give you the necessary rest and relaxation for healing. It takes about 10 - 14 days for the skin to heal and the swelling to subside. But final healing should not be expected for several weeks."
+          },
+          {
+            "title": "What complications can arise? ",
+            "subtitle": "Since larger wound areas are involved, bruising or bacterial infections can interfere with healing. Skin sensation and lymphatic drainage regenerate only slowly over the course of several months and may remain reduced in the scarred area. Thromboses and embolisms are extremely rare, but could lead to a threatening strain on the circulation and breathing. Noticeable scars after disturbed wound healing can usually be improved by small corrective operations under local anaesthesia."
+          },
+          {
+            "title": "What aftercare is necessary?",
+            "subtitle": "You should wear a compression garment for up to 12 weeks (day and night) postoperatively. Absorbable skin sutures dissolve themselves, other sutures are removed after 2 weeks."
+          },
+          {
+            "title": "What should I bear in mind after the operation? ",
+            "subtitle": "IDuring the first 6-8 weeks you should move carefully and avoid excessive tension of the suture lines. You will usually be able to work again after about 3 weeks. Physical execrcise can only be started after 6 weeks."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Duration of the operation",
+          "detail": "2 to 4 hours (depending on the procedure)"
+        },
+        "durationInClinic": {
+          "title": "Duration of stay in the clinic",
+          "detail": "1 to 3 days"
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "General anaesthesia"
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "compression garment for 12 weeks after surgery (day and night)."
+        },
+        "sociable": {
+          "title": "",
+          "subtitle": ""
+        }
+      }
+    },
+    "scar_correction": {
+      "title": "Scar Correction",
+      "general": {
+        "title": "Allgemeines zur Narbenkorrektur",
+        "content": "In terms of surface area, the skin is the largest organ of the human body and provides us with numerous important functions as well as protection against external influences. Every deeper injury of the skin leaves a visible scar. In the best case, this can fade over time and become almost invisible. However, depending on the course of the scar within the skin tension lines and on many individual factors, disfiguring, painful and bulging scars can also occur. Scar contractures with strand formations can cause significant movement restrictions, which in severe cases can even lead to joint stiffness. We offer numerous procedures to make scars soft and elastic, flat and inconspicuous."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "Treatments ranging from cortisone injections, silicone-coated overlays in combination with compression bandages to surgery are possible. Surgical treatment options include, for example, Z-plasty, expansion with expanders followed by the insertion of healthy skin, as well as skin grafts. Significant improvements can be achieved in this way."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "Most scar corrections are performed on an outpatient basis and with a local anesthesia. In the case of very large scars, the operation may have to be carried out under general anesthesia."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "Depending on the procedure, either as an outpatient or inpatient."
+          },
+          {
+            "title": "What happens after the operation?",
+            "subtitle": "After the operation, a bandage is applied. Skin sutures are usually removed after one week. Any slight pain that may occur can be treated with medication."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "Scar correction is a routine operation. Minor complications such as bruising and prolonged swelling can occur, but usually heal without consequences. Serious complications are extremely rare. Nevertheless, every patient should be informed about all the advantages, risks and possible complications before undergoing surgery."
+          },
+          {
+            "title": "What aftercare is necessary?",
+            "subtitle": "It can take 3-6 months for the scar to lose its pink shimmer. In the meantime, you can easily conceal the rosy areas of skin with anti-allergenic make-up. Sunbathing and direct sunlight must be avoided for at least 6 months to prevent possible pigment disorders. The result will only be visible after 6 - 12 months."
+          },
+          {
+            "title": "What should be observed after the operation? ",
+            "subtitle": "The operated area should be rested, at least for several days, and physical exertion should be avoided. Visits to solariums and saunas, strong sunlight or extreme heat should also be avoided for 6 months after the operation, as otherwise pigmentation disorders may occur."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Duration of the operation",
+          "detail": "1 - 3 hours"
+        },
+        "durationInClinic": {
+          "title": "Length of stay in the clinic",
+          "detail": "outpatient or inpatient"
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "Local or general anaesthesia"
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "scar care, use strong sun protection for 1 year."
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "after 2 - 3 days."
+        }
+      }
+    }
+  },
+  "arms": {
+    "title": "Arms",
+    "sweat_gland_suction": {
+      "title": "Sweat Gland Suction",
+      "general": {
+        "title": "Allgemeines zur Schweissdrüsenabsaugung",
+        "content": "Excessive sweating can occur in the armpits as well as on the hands and feet. It is very stressful for those affected and often limits them socially.\nIn principle, there are two treatment options.\nThe gentler procedure is the injection of botulinum toxin. This achieves a rapid treatment success without surgery.\nAnother variant is the surgical removal of the sweat glands. However, due to our anatomy, this procedure can only be considered for treatment in the armpits. This is not possible on the hands and feet.\nWhich treatment method is used in particular depends on individual factors. We will be happy to explain these in a personal consultation."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "First, tumescent solution is injected into the armpit area. This has the task of numbing the area and loosening the sweat glands from the surrounding tissue. This makes the removal of the sweat glands particularly gentle. A small incision is then made in the armpit. The suction cannula is inserted through this incision. Then the actual sweat gland suction begins. After the operation, the effect is immediate."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "10 days before the operation, you must stop taking blood-thinning medication, painkillers and medication containing acetylsalicylic acid in consultation with your GP. You must inform the doctor in advance of any pre-existing conditions or allergies. On the day of the operation, the doctor will discuss the treatment with you again. "
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "A general anesthesia and a hospital stay are necessary. This will be between 1 and 3 days, depending on the extent of the areas operated on."
+          },
+          {
+            "title": "What happens after the operation?",
+            "subtitle": "After the operation, a compression bandage is applied. Skin sutures are usually removed after one week. Any slight pain that may occur can be treated with medication."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "Suction curettage under the arms to treat increased sweating, like any other operation, has possible risks. These consist of the possibility of bruising, swelling, numbness, skin necrosis or local infection. However, all these possible complications are very rare if the operation is performed correctly and are easily treatable if they do occur.Nevertheless, every patient should be informed about all the benefits, risks and possible complications before undergoing surgery."
+          },
+          {
+            "title": "What aftercare is required?",
+            "subtitle": "Swelling and bruising are normal during the first few weeks. There is often hardening of the tissue, which can last four to six weeks. To prevent infection, you will take an antibiotic for five days.\n A compression bandage will be applied after the operation. You can change this bandage on your own after the operation and shower normally. However, the bandage will restrict your ability to work for a few days."
+          },
+          {
+            "title": "What should I bear in mind after the operation?",
+            "subtitle": "After the removal of the sweat glands you will receive a compression bandage for two to three days. The stitches will be removed after about seven days. You will be fit for social activities again after two to three days and can resume physical activities after about three weeks."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Duration of the operation",
+          "detail": "approx. 1-2 hours"
+        },
+        "durationInClinic": {
+          "title": "Length of stay in the clinic",
+          "detail": "Outpatient or inpatient"
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "General anaesthesia"
+        },
+        "postTreatment": {
+          "title": "",
+          "subtitle": ""
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "after 3 days"
+        }
+      }
+    },
+    "upper_arm_thigh_lift": {
+      "title": "Upper Arm & Thigh Lift",
+      "general": {
+        "title": "Allgemeines zum Oberarm-& Oberschenkellift",
+        "content": "For many people, a look in the mirror is like a look at their self-acceptance. Excess skin in undesirable areas is usually a reason to feel uncomfortable in one's own body. More or less pronounced deformities of the body silhouette can partly be caused by nutrition, but can also be based on genetic predispositions. The changing ideal of beauty, partly influenced by the media, certainly plays a significant role when considering one's own body contour. However, there is a consensus that a well-proportioned body with firm skin without cellulite is more pleasing to the eye of the respective observer than a visible skin excess."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "During the thigh lift and upper arm lift, the incisions are placed in the groin and on the inside of the upper arm respectively to minimize visible scars.\nThe excess and sagging skin and fat tissue is precisely measured and surgically removed. In addition, the aesthetic body contour can be improved by targeted liposuction of adjacent areas.\nIn summary, it should be emphasised that the above-mentioned surgical options are in no way intended to offer an alternative to weight reduction, but can merely harmoniously model the body so that overall proportions appear more aesthetic, slimmer and firmer."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "Before a surgical skin and fat removal, all other possibilities for weight loss should be exhausted. The closer you are to your ideal weight, the more favourable the surgical result will be. You can protect your skin before the operation by taking special care of it and stimulate the blood circulation by taking cold showers.\nIf you have skin inflammation, you should treat them before the procedure. In addition, you should not take any painkillers, such as aspirin, for 14 days before the operation, as these delay blood clotting."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "A general anesthesia and an in-patient hospital stay are required, which is between 3 and 10 days. Only small skin tightening operations can sometimes be carried out under local anesthesia and on an outpatient basis."
+          },
+          {
+            "title": "What happens after the operation?",
+            "subtitle": "After the operation, you will need painkillers to give you the necessary rest and relaxation for healing. It takes about 10 - 14 days for the skin to heal and the swelling to subside. Yet, final healing should not be expected for several weeks."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "Bruising and secretions or bacterial infections can interfere with healing, since larger wound areas are involved. Skin sensation and lymphatic drainage regenerate only slowly over the course of several months and may remain reduced in the scarred area. Thromboses and embolisms are extremely rare, but could still lead to a threatening strain on the circulation and breathing. Noticeable scars after disturbed wound healing can usually be improved by small corrective operations under local anesthesia."
+          },
+          {
+            "title": "What aftercare is required?",
+            "subtitle": "You should wear a compression garment for up to 12 weeks day and night postoperatively. Absorbable skin sutures dissolve themselves, other sutures are removed after 2 weeks."
+          },
+          {
+            "title": "What should I keep in mind after the operation?",
+            "subtitle": "During the first 6-8 weeks you should move carefully and avoid excessive tension of the suture lines. You will usually be able to work again after about 3 weeks. Physical exercises should only be started slowly after 6 weeks."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Duration of the operation",
+          "detail": "about 2 to 4 hours (depending on the procedure)"
+        },
+        "durationInClinic": {
+          "title": "Length of stay in the clinic",
+          "detail": "1 to 3 days."
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "General anaesthesia"
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "12 weeks after surgery Compression garment (day and night)."
+        },
+        "sociable": {
+          "title": "",
+          "subtitle": ""
+        }
+      }
+    }
+  },
+  "legs": {
+    "title": "Legs",
+    "brazilian_butt_lift": {
+      "title": "Brazilian Butt-Lift",
+      "general": {
+        "title": "Allgemeines zum Brazilian Butt-Lift",
+        "content": "Although the aesthetics of the buttocks still lag behind the status of the female breast in Germany, in comparison to countries like Brazil or the USA, buttock corrections are becoming increasingly popular. An autologous fat injection to contour and enlarge the buttocks is currently considered the most effective method in the field of buttock shaping, with the fewest complications."
+      },
+      "engagement": {
+        "title": "Der Eingriff",
+        "content": "The Brazilian Butt Lift is a two-part treatment that can take up to four hours in total. Depending on the extent of the procedure or the amount of autologous fat removed, the duration of the operation may increase. The procedure is performed under general anaesthesia as no local anaesthetic should be used during the extraction of autologous fat in order not to additionally damage the very sensitive fat cells and thus achieve an optimal result. Before the operation begins, the patient can have a detailed discussion with the surgeon and the anaesthetist to clarify any final questions.\nIn the course of the procedure, the fat, that is needed to increase the volume of the buttocks, is first suctioned out. This is usually done using the tumescent technique, which involves injecting a fluid into the donor areas before the suction process, that loosens the fatty tissue. Now its possible to gently harvest the fat without damaging the surrounding tissue, i.e. veins, vessels and nerves, which is then specially prepared for lipofilling.\n Using fine cannulas, the extracted fatty tissue is transplanted specifically and evenly into the buttock region until the desired shape and size is achieved. The injection sites are closed with a mini-suture."
+      },
+      "additional": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "How do I prepare for the operation?",
+            "subtitle": "You should have reached your target weight and keep it constant. To ensure that there are enough fat deposits on the body, a high-calorie diet is recommended before the operation.\nAt the latest two weeks before the operation, anticoagulant and blood-thinning medication should be discontinued. This also applies to some over-the-counter preparations such as aspirin."
+          },
+          {
+            "title": "Hospital stay",
+            "subtitle": "1-3 days inpatient"
+          },
+          {
+            "title": "What happens after the operation?",
+            "subtitle": "Already in the operating theatre or immediately after the treatment, the patient is put on compression pants, which must be weared for about 12 weeks. It is very important to keep the sleeping position on the stomach for the next 2 to 3 weeks. In this respect, one should also take a 14-days break from work and allow the body plenty of rest to recover."
+          },
+          {
+            "title": "What complications can arise? ",
+            "subtitle": "Risks and complications of buttock augmentation with autologous fat can never be completely excluded, but they are almost always very low. Typical side effects of a Brazilian Butt Lift include swelling in the recipient area and bruising in the respective donor area, but these will recede or disappear over time. After 12 weeks, the traces of liposuction and fat injection sites should have disappeared."
+          },
+          {
+            "title": "What should be considered after the procedure?",
+            "subtitle": "The healing process of the fat takes place during the first 2 weeks. During this sensitive period, special care should be taken to exert as little pressure as possible on the treated buttock area. I.e. also reduce lying on the back and sitting to a minimum during the day, ideally no longer than one hour, in order to keep pressure loads as low as possible."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Duration of the operation",
+          "detail": "2 to 4 hours"
+        },
+        "durationInClinic": {
+          "title": "Length of stay in the clinic",
+          "detail": "1-3 days inpatient"
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "General anaesthesia"
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "subtitle": "12 weeks compression garment (day and night)."
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "After 2 weeks"
+        }
+      }
+    }
+  },
+  "outpatient_treatment": {
+    "wringkle_treatment": {
+      "title": "Wrinkle Treatments (Skin Resurfacing)",
+      "general": {
+        "title": "Allgemeines zur Faltenbehandlung",
+        "content": "Unfortunately, no one escapes the genetic ageing process. In the course of life, wrinkles and signs of ageing appear, especially on the face, due to various influencing factors. A distinction is made between mimic and static wrinkles. Mimic wrinkles are caused by a muscle pull under the skin, e.g. frown lines and laugh lines. A permanent pull of the muscles over years thus causes corresponding wrinkles, which even persist from a certain point onwards if no facial mimicry is carried out. \nAge-related or static wrinkles, on the other hand, are caused by loss and displacement of the fat pads in the face. In addition, there is a loss of elastin and collagen fibres in the subcutaneous tissue.\nThese only produce new fibres at a slower rate in old age and slacken over time. Furthermore, the quality of the collagen and elastin fibres is no longer as high and durable as it was in youth, so that in the long run there is a loss of these fibres.\nOther external factors such as sunlight, heat and cold, injuries, stress, smoking etc. have a negative effect on the longevity of the collagen fibres. Natural skin ageing is therefore nothing more than a disturbance of a dynamic balance between the breakdown and new production of elastin and collagen fibres, as well as a redistribution of the fat pads in the face."
+      },
+      "treatment": {
+        "title": "Die Behandlung",
+        "content": "Various methods are available for the treatment of wrinkles. Wrinkle depth, localisation and skin condition are just some of the factors that must be taken into consideration when choosing the suitable method. All procedures have in common that an optical skin rejuvenation can be achieved by external applications without skin incisions. Here are only mentioned procedures that have proven their effectiveness and low risk over the years.",
+        "sub": [
+          {
+            "title": "Chemical Peeling",
+            "content": "Chemical peeling is a chemically induced peeling treatment of the skin. This local method is used to remove small wrinkles, cornifications or even superficial pigment spots, such as the so-called age spots. It is also suitable for improving the appearance of acne scars. When performed professionally, medical peeling can optically rejuvenate the sun-damaged face, which has been pre-aged by wind and weather, by years.\nDepending on the intended skin depth, different substances are used. The most common are vitamin A acid, glycolic acid, trichloroacetic acid and phenol, which is particularly effective. The use of peeling substances, especially phenol, should only be reserved for experienced practitioners, as there are several special points to be considered beforehand. In contrast to dermabrasion, the abrasion of the skin, the extent of which can be precisely determined by the surgeon himself, the depth of penetration of the peeling substances depends on various factors. This can result in deeper layers of skin being unintentionally affected, which would result in undesirable scarring. Basically, the procedure begins with a careful cleansing and degreasing of the skin. The solution is always applied at the lowest concentration for the first application. The patient then feels a rapid onset of action with a slight burning sensation and warmth on the skin. After several applications, a milky coating finally forms. This desired effect is thus achieved and the process is finished. In the following time, a rejection of the superficial skin layers becomes apparent. This exfoliation is completed after about 12 weeks, leaving behind rosy, fresh, and smooth skin. After each peeling procedure, it is important to consistently apply cream to the treated areas and protect them with a hypoallergenic sunscreen. Without proper protection, sunbathing is not allowed before six months have passed."
+          },
+          {
+            "title": "Skin Abrasion",
+            "content": "As already mentioned, minor wrinkles or skin irregularities can be removed not only chemically, but also mechanically by means of dermabrasion. During this high-speed abrasion with diamond-coated abrasive heads, it is important to remove the skin as evenly as possible so that a smooth, new surface can form. If the abrasion is too superficial, the desired effect of smoothing wrinkles will not be achieved. If, on the other hand, the abrasion is too deep, the skin reacts with scarring, just as with any other deeper injury. Here, too, it is clear that this otherwise relatively simple and low-risk procedure should only be carried out by an experienced practitioner.\nAfter dermabrasion, the wound surface is generally covered with a scab within 2 days, which detaches and spontaneously rejects after about 8-10 days. After complete shedding, a delicate pink skin is revealed, which is still extremely sensitive in the beginning. Aftercare of the smooth skin is also very important here, as with the peeling procedure. Cosmetic creams or make-up are allowed after 2 weeks at the earliest, and the already mentioned instructions regarding UV exposure should also be followed for at least half a year."
+          },
+          {
+            "title": "Laser",
+            "content": "The application areas of lasers used in cosmetics are almost identical to those of peeling and dermabrasion. The domain of the so-called \"skin-resurfacing\" are the fine (intradermal) wrinkles and texture changes of the ageing skin, which can hardly be repaired during a face-lift.\nThe technical prerequisite for a positive effect of this treatment method is a sufficiently high energy output of the laser in a very short time, so that the skin does not burn itself but vaporises directly. The ERBIUM-YAG laser, for example, is used for this purpose. In addition to its precise skin ablation, another effect occurs (the so-called \"shrinking\"). In addition to the regeneration of the upper skin layers, the collagen connective tissue is restructured. The result is a tightening of the entire treatment area.\nAs with dermabrasion, scab formation also occurs in the first few days after the treatment. The detachment of the scab is completed after approx. 5-7 days, whereby a special treatment with panthenol ointments is recommended. Any residual reddening that initially remains generally subsides completely within 2-3 months, although strict UV protection must also be observed here to avoid staining. Should a new treatment be necessary after about 3-5 years, this is possible without any problems."
+          }
+        ]
+      },
+      "faq": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "Wann ist eine Faltenbehandlung sinnvoll?",
+            "subtitle": "Eine Faltenbehandlung lohnt sich bereits schon, wenn Sie erste Anzeichen von Falten oder Veränderungen in Ihrem Gesicht bemerken. Das ist keinesfalls altersabhängig und kann sogar schon vor dem 30. Lebensjahr zu tollen Ergebnissen führen. Dabei können wir sowohl die statischen als auch die dynamischen Falten wahlweise mittels Botulinumtoxin (Botox) oder auch Hyaluronsäure behandeln. Welchen Effekt Sie für welche Zeit erwarten können, schildern wir Ihnen in einem ausführlichen Beratungsgespräch."
+          },
+          {
+            "title": "Handelt es sich bei einer Faltenbehandlung um einen klassischen schönheitschirurgischen Eingriff?",
+            "subtitle": "Faltenbehandlungen werden heutzutage von einigen Fachrichtungen durchgeführt, so können auch Dermatologen (Hautärzte) etc. diese Behandlungen durchführen. Von welcher Fachrichtung auch immer ausgeführt- Faltenunterspritzungen sind eine sehr nachgefragte Behandlung und werden immer beliebter."
+          },
+          {
+            "title": "Wer darf Faltenbehandlungen überhaupt durchführen (Arzt/Kosmetiker)",
+            "subtitle": "Faltenbehandlungen sowohl mit Botox als auch Hyaluronsäure dürfen rein rechtlich nur approbierte Ärzte jeglicher Fachrichtung durchführen. Diese Eingriffe sind als Injektionen zu werten und demnach nur in erfahrene Hände zu geben.\n Es sind jedoch auch Kosmetiker/-innen auf dem Markt, welche diese Injektionen durchführen. Sie sollten sich bei der Auswahl jedoch auf die jeweilige Erfahrung und den Wohlfühlfaktor verlassen und Ihre Wahl entsprechend treffen."
+          },
+          {
+            "title": "Können einzelne Gesichts- und Körperpartien behandelt werden?",
+            "subtitle": "Es können sowohl einzelne Gesichts- als auch Körperpartien behandelt werden. Dabei ist es je nach Areal und Wunsch wichtig, das richtige Präparat für den gewünschten Effekt zu wählen. Wir arbeiten in unseren Praxen in Berlin und Köln mit sehr hochwertigen Partnern zusammen und können Ihnen somit qualitativ hochwertige Produkte für jegliche Indikation anbieten."
+          },
+          {
+            "title": "Welche Art von Falten können behandelt werden?",
+            "subtitle": "Das Falten unterschiedlich entstehen, empfiehlt es sich diese auch unterschiedlich anzugehen. Daher können dynamische Falten im Bereich der Stirn und der Zornesfalte aber auch im Bereich der Krähenfüße wunderbar mittels Botulinumtoxin behandelt werden. Durch eine Blockade der neuromuskulären Übertragung werden die für die Falten verantwortlichen Muskeln gelähmt und somit wird der Faltenwurf verhindert. Sicherlich verändert sich dadurch auch geringfügig Ihre Mimik, so können Sie z.B. je nach Anwendungszone nicht mehr die Stirn runzeln, nicht mehr zornig schauen etc.. Die Wirkung lässt nach 3-6 Monaten nach und die Falten kommen leider wieder.\n Andere Falten (z.B. Nasolabialfalten) verstehen sich heute als eine generelle Veränderung im Gesicht, was durch das Herabsacken verschiedener Fettdepots im Wangenbereich geschieht. Hierbei erfolgt das Unterspritzen der Falten multidimensional, das heißt es erfolgt eine Analyse des gesamten Gesichtes um die Ursache von entsprechenden Falten zu finden. Durch unsere Erfahrung können wir Ihnen im Beratungsgespräch unsere Empfehlung gern aussprechen und Sie dementsprechend behandeln."
+          },
+          {
+            "title": "Sehe ich danach wirklich jünger und die Haut straffer aus?",
+            "subtitle": "Je nachdem, welche Behandlung durchgeführt wird und welche Materialien benutzt werden, sieht idealerweise das gesamte Erscheinungsbild frischer aus. Unser Ziel ist es Sie natürlich zu verjüngen, daher legen wir viel Wert auf eine professionelle Unterspritzung mit hochwertigen Materialien. Je nach Wunsch und auch Ausmaß der bestehenden Faltensituation sind teilweise auch mehrere Sitzungen notwendig, um das gewünschte Ziel zu erreichen. Wir beraten Sie vor jeder Behandlung sehr ausführlich und zeigen Ihnen unsere Möglichkeiten mit verschiedenen Präparaten auf."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Treatment duration",
+          "detail": "30 minutes to 1 hour, depending on the treatment."
+        },
+        "areasOfApplication": {
+          "title": "Areas of application",
+          "detail": "Face | Neck | Décolleté | Arms and legs |"
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "detail": "Skin care"
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "2 - 5 days."
+        }
+      }
+    },
+    "wringkle_injection": {
+      "title": "Wrinkle Treatments (Injections)",
+      "general": {
+        "title": "Wringkle Injection",
+        "content": "The implantation of biomaterials can be described as a milestone in the treatment of wrinkles. The aesthetic results are impressive and speak for themselves. The injection requires a precise indication, as only certain wrinkle formations are suitable for this therapy. First and foremost, the mouth area and the nasolabial folds should be mentioned.\nVarious materials are available on the market. It should be emphasised that we only use harmless preparations that are not hazardous to health. We do not use any products of animal origin, such as collagen. Instead, we prefer purely synthetically produced substances, such as hyaluronic acid, which, due to the lack of protein components, do not require allergy testing in advance and are characterised by excellent tissue compatibility. By this means, we can look back on a complication-free application with convincing satisfaction among our patients in the past years. However, the exact injection technique is an absolute prerequisite for an even leveling of the skin. In the case of so-called absorbable substances, repetitions are usually necessary, as the relining effect can diminish after about half a year due to degradation processes in the tissue. The use of preparations with a permanent effect is no longer recommended due to a very high complication rate."
+      },
+      "treatment": {
+        "title": "Die Behandlung",
+        "content": "Various methods are available for the treatment of wrinkles. Wrinkle depth, localisation and skin condition are only some of the factors that must be taken into consideration when choosing the suitable method. All procedures have in common that an optical skin rejuvenation can be achieved by external applications without skin incisions. Only the methods, that have proven their effectiveness and low risk over the years, are mentioned below.\nThe various treatment methods differ according to the technique, the material and of course the localisation of the desired injection. After an analysis of your entire face, we will explain to you exactly in which areas of your face injections will lead to which results.",
+        "sub": [
+          {
+            "title": "Fat injection (Lipofilling)",
+            "content": "In recent years, alternative procedures to foreign material injections have been developed. The most euphoric response for wrinkle relining is using the body's own fat. However, this method could only partially fulfil expectations. The most convincing advantage of autologous fat injection is that it can be applied over a large area and is relatively easy to obtain from the body's own depots. In an operation (under general or local anaesthesia), your fat is extracted from the appropriate depots, specially and elaborately processed, and then injected into your face. Own fat not only has volume-giving properties but also has a skin-refreshing or rejuvenating effect due to the stem cells and growth factors. The grown and transplanted own fat lasts permanently and is subject to your weight fluctuations as well as your skin ageing. The decisive disadvantage, however, is the high resorption rate. Since only a small part of each fat transplant is connected to the blood supply of the recipient area, up to 60% of the transported fat cells are resorbed within only 2-3 months."
+          },
+          {
+            "title": "Botulinum toxin",
+            "content": "The treatment of wrinkles in the forehead region (frown lines) and the laugh lines around the eyes (crow's feet) is facing serious competition since the rediscovery of an old top medical product. The active ingredient of this preparation, botulinum toxin, is a neurotoxin from neurology that had been tried and tested for decades and has found its way into cosmetic surgery due to its wrinkle-smoothing effect. Here a harmless, extremely effective application is guaranteed when used professionally, as a clearly visible rejuvenation and harmonisation of the facial features can be achieved by weakening the overactive mimic musculature in these areas. The fact that wrinkle treatment with injectable materials continues to grow despite the initial lowering of expectations is explained by the elegance of these procedures. There is no comparable method that enables an immediate, visible improvement of the outer appearance in a few minutes in a biological way, without any significant impairment of the patient.\nThe treatment with botulinum toxin leads to a temporary paralysis of the facial muscles and is mostly applied in the upper third of the face. Thus, the frown line region as well as the forehead region and crow's feet can be treated. In some cases, it is also indicated to work with very little Botox amounts in the area of the mouth or nose. We will explain to you exactly what effect this has on your face. The result lasts about 4-6 months."
+          },
+          {
+            "title": "Hyaluronic acids",
+            "content": "Hyaluronic acids can be used to treat wrinkles as well as volume deficits in your face. The consistency of the hyaluronic acid varies depending on the region to be treated and the depth to which it is to be injected. We distinguish between very thin hyaluronic acids (e.g. for skin rejuvenating, treatment of the eye or treatment of the lips) and solid hyaluronic acids, which are mainly used to give volume in the area of the zygomatic arch. The hyaluronic acids also differ in their water-binding capacity depending on their firmness. A thin hyaluronic acid has less water-binding capacity than a firm one."
+          }
+        ]
+      },
+      "faq": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "What do I have to consider before wrinkle treatments?",
+            "subtitle": "Before the treatment with hyaluronic acid, you should not take any blood-thinning medication, such as painkillers. This is to prevent the increased formation of bruises. If you are in public life or have important appointments after the injections, it is recommended that the injections are carried out before a weekend. In this way, any small bruises can be reduced over the weekend. After an injection, you should not go to a sauna, do excessive exercise for 24-48 hours. After an injection with your own fat, the tendency to haematoma formation is usually more pronounced, so you should take 1-2 weeks off after this procedure."
+          },
+          {
+            "title": "When does wrinkle treatment make sense?",
+            "subtitle": "Wrinkle treatment is already worthwhile when you notice the first signs of wrinkles or changes in your face. This is not age-dependent and can even lead to beautiful results before the age of 30. We can treat both static and dynamic wrinkles using either botulinum toxin (Botox) or hyaluronic acid. We will tell you which effect you can expect and for how long in a detailed consultation."
+          },
+          {
+            "title": "Is wrinkle treatment a classic cosmetic surgery procedure?",
+            "subtitle": "Nowadays, wrinkle treatments are carried out by several specialties, including dermatologists. Wrinkle injections are a very popular treatment and are becoming more and more popular."
+          },
+          {
+            "title": "Who is allowed to carry out wrinkle treatments at all (doctor/cosmetician)?",
+            "subtitle": "Wrinkle treatments with Botox as well as hyaluronic acid may only be carried out by licensed doctors of any speciality. These procedures should only be given to experienced hands. However, there are also cosmeticians on the market who perform these injections. You should rely on the respective experience of the practitioner as well as the feel-good factor and make your choice accordingly."
+          },
+          {
+            "title": "Can individual parts of the face and body be treated? ",
+            "subtitle": "Both individual parts of the face and body can be treated. Depending on the area and your wishes, it is important to choose the right preparation for the desired effect. We work with very high-quality partners and can therefore offer you high-quality products for any indication."
+          },
+          {
+            "title": "What kind of wrinkles can be treated?",
+            "subtitle": "Since wrinkles develop in different ways, it is advisable to treat them differently. Therefore, dynamic wrinkles in the area of the forehead and the frown line but also in the area of the crow's feet can be treated wonderfully with botulinum toxin. By blocking the neuromuscular transmission, the muscles responsible for the wrinkles are paralysed and thus the wrinkles are prevented from forming. Certainly, this also slightly changes your facial expression, e.g. depending on the area of application, you can no longer frown, look angry etc.. The effect wears off after 3-6 months and the wrinkles unfortunately come back.\n Other wrinkles (e.g. nasolabial folds) are caused by the sagging of various fat deposits in the cheek area. In this case, the wrinkles are injected multidimensionally. Based on our experience, we can make a recommendation during the consultation and treat you accordingly."
+          },
+          {
+            "title": "Do I really look younger and the skin firmer afterwards?",
+            "subtitle": "Depending on the treatment and the materials used, the overall appearance will ideally look fresher. Our goal is to rejuvenate you naturally, so we place a lot of emphasis on professional injections with high-quality materials. Depending on your wishes and the extent of the existing wrinkles, several sessions may be necessary to achieve the desired result. We advise you in detail before each treatment and show you the possibilities with different preparations."
+          },
+          {
+            "title": "Will the wrinkles return?",
+            "subtitle": "After the effect of Botox has worn off and the hyaluronic acid has also degraded, the wrinkles return in approximately the same form."
+          },
+          {
+            "title": "How often do wrinkle injections have to be performed?",
+            "subtitle": "How often a treatment with appropriate materials has to be carried out depends very much on the patient's initial condition. For example, a young lady of 35 may only need one treatment a year with hyaluronic acid, while a lady of the same age or older may need multiple treatments. Certainly, the number of treatments also depends on the patient's financial possibilities. It is also possible to spread the planned treatments over a desired period of time and thus prolong the effect."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Duration of treatment",
+          "detail": "30 - 60 minutes"
+        },
+        "areasOfApplication": {
+          "title": "Areas of application",
+          "detail": "Facial region"
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "Local anaesthesia."
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "detail": "Cooling immediately after treatment if necessary."
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "after 24 -48 hours"
+        }
+      }
+    },
+    "lip_injection": {
+      "title": "Lip Injections",
+      "general": {
+        "title": "Allgemeines zur Lippenunterspritzung",
+        "content": "There is no area that is so much associated with sensuality, youthfulness, and eroticism as the lips. This is due to the fact that lips are rarely covered and are therefore the first thing to be noticed with the eyes when looking at the face.\nFull lips in the sense of a kissing mouth appear attractive. Narrow lips, however, often give the impression of severity and doggedness.\nThe latest biotechnology now makes it possible to produce hyaluronic acids, which can be injected into the lips for contour and/or volume correction with little risk."
+      },
+      "treatment": {
+        "title": "Die Behandlung",
+        "content": "Most hyaluronic acid preparations used for lip injections contain a local anaesthetic so that only the injection is felt. If necessary, a local anaesthetic can be applied using anaesthetic ointment or a nerve block can be done by injection—as at the dentist."
+      },
+      "faq": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "What do I have to consider before the wrinkle injection? ",
+            "subtitle": "Before the treatment with hyaluronic acid, you should not take any blood-thinning medication, such as painkillers. This is to prevent the increased formation of bruises. If you are in public life or have important appointments after the injections, it is recommended that the injections are carried out before a weekend. This way, any small bruises can be reduced over the weekend. The visible swelling can last up to 7 days."
+          },
+          {
+            "title": "Who is suitable for lip injections?",
+            "subtitle": "Lip injections are suitable for all women and men, regardless of age, who are dissatisfied with their lips. It can give your lips new volume and a natural and attractive shape."
+          },
+          {
+            "title": "What are lips injected with?",
+            "subtitle": "Hyaluronic acid is a substance that is found in every skin cell. It stores water and leads to a smooth elastic skin texture. Cross-linked hyaluronic acid has established itself as the optimal filler for lips. Permanent fillers often cause problems and can lead to complications even after years. In recent years, scientific research in the field of fillers has led to a differentiation of fillers. Particularly soft flowable hyaluronic acids have been developed for the lips."
+          },
+          {
+            "title": "How long does the result of a lip injection last?",
+            "subtitle": "The durability of hyaluronic acid varies from person to person. An effect should be visible between 6-12 months.\nThe result is strongly dependent on the individual lifestyle (diet, smoking, alcohol consumption, sport, etc.)."
+          },
+          {
+            "title": "How often can the treatment be repeated?",
+            "subtitle": "A new treatment with hyaluronic acid should be carried out at least after 3 to 4 weeks, as the results of the first treatment are only fully visible after this time. Taking this period into consideration, the treatment with hyaluronic acid can be repeated as often as desired."
+          },
+          {
+            "title": "Is lip injection painful?",
+            "subtitle": "The lip tissue is interwoven with numerous blood vessels and nerves and is a very sensitive region. Pain during the injection is caused by the increase in volume in the tissue. The tissue layers are pushed apart and a feeling of pressure on nerves and blood vessels develops. For this reason, most hyaluronic acid preparations used for lip injections contain a local anesthetic so that only the injection is felt. If necessary, a local anesthetic can also be applied using anesthetic ointment or a nerve block—as at the dentist."
+          },
+          {
+            "title": "What complications can arise?",
+            "subtitle": "A lip injection, performed by an experienced specialist, is usually a procedure with few complications. Yet, infections, nodules and asymmetries can occur. However, this happens extremely rarely. Slight bruising, numbness and especially minor swelling following lip injections usually disappear after one to two days. Any asymmetries or nodules can be easily corrected with a Hylase injection. In this case, only the injected hyaluronic acid is dissolved. The bound hyaluronic acids of the body remain unaffected."
+          },
+          {
+            "title": "What should I pay attention to after lip injections?",
+            "subtitle": "After lip injections, it is necessary to avoid touching the lips, as the filling materials will still be malleable for couple hours. Especially in the case of a lip injection with the patient's own fat, massaging the lips should be avoided. In addition, the lips will be extremely sensitive in the first few days after a lip injection. In case of slight swelling, the use of cooling pads is recommended."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Treatment duration",
+          "detail": "30 - 60 minutes"
+        },
+        "areasOfApplication": {
+          "title": "",
+          "detail": ""
+        },
+        "anasthesia": {
+          "title": "Anaesthesia",
+          "detail": "Anaesthesia with anaesthetic cream or nerve block."
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "detail": "Cooling"
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "after 2-5 days"
+        }
+      }
+    },
+    "vampire_lift": {
+      "title": "Vampire Lift",
+      "general": {
+        "title": "Allgemeines zum Vampir-Lift",
+        "content": "The Vampire Lift (also known as PRP therapy or Platelet-Rich Plasma therapy) is a young procedure for gentle skin rejuvenation on the face, neck and décolleté. The treatment method was developed in the USA and quickly became popular there, especially among prominent actresses and singers. The procedure is called \"vampire lift\" because a small amount (approx. 20 ml) of the patient's own blood is taken for the treatment. From this own blood we obtain platelet-rich plasma, which is injected into the areas of skin to be regenerated. The platelet-rich plasma not only ensures tissue regeneration. Thanks to the growth factors it contains, it also promotes the formation of new cells.\nYou do not have to expect any side effects. This is because only the body's own filling material (blood plasma) is used for the treatment. Allergies and intolerance reactions can therefore be virtually ruled out. Unpleasant after-effects of the treatment can at most be expressed by slight swellings in the injection areas. However, these symptoms will disappear within a few days. Since the Vampire Lift does not require any skin incisions, the procedure does not leave any scar tissue. The growth factors contained in the blood plasma ensure lasting treatment success. Hair loss (alopecia) can also be treated with this method. The treatment is usually carried out 4 times at intervals of 4-6 weeks. \nWe obtain the autologous blood required for the treatment from a suitable vein. The prepared blood plasma enters your subcutaneous tissue through fine needles and special techniques. Depending on the treatment objective, the plasma is injected in one or more layers.\nThe Vampire Lift takes about 20 minutes per treatment unit and is therefore comparatively time-consuming. Depending on the desired extent of treatment and the individual response to the measure, a Vampire Lift extends over 1 to 4 successive treatment units at intervals of 3 to 4 weeks.\nOften, the visual treatment successes are already apparent a few days after the Vampire Lift. Since the procedure stimulates the formation of new cells, you usually benefit from the therapy in the long term."
+      },
+      "treatment": {
+        "title": "Die Behandlung",
+        "content": "First, blood is taken from a vein. The blood is then processed by centrifugation. The thrombocytes (blood platelets), in which the growth factors are stored, are isolated. These are then injected into the skin, as in mesotherapy. After the injection, the platelets release the growth factors into the tissue, which then control the process of skin regeneration."
+      },
+      "faq": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "What do I need to consider before the Vampire Lift?",
+            "subtitle": "Please drink enough before the treatment. No blood thinning medication should be taken for one week prior to treatment. If you regularly take blood-thinning medication (ASS, Marcumar, Xarelto, etc.), please inform us in advance."
+          },
+          {
+            "title": "Is the Vampire Lift right for me?",
+            "subtitle": "If you need a freshness boost or your skin looks tired and dull, the Vampire Lift is just right for you. Furthermore, plasma lifting is a very effective method against tired eyes and dull skin. All those who want to improve their appearance with natural methods without Botox and other means will find the right solution with this method. The autologous blood therapy is suitable for every skin type, every skin colour and every age. The result is absolutely natural."
+          },
+          {
+            "title": "Is PRP treatment painful?",
+            "subtitle": "Before the plasma lift you will be anaesthetised with a special anaesthetic ointment in the facial area for about 30 minutes. During this time, blood will be taken from you and the blood will be prepared. The injection is done with microfine needles. The depth of the injection is usually less than two millimeters. The vampire lift is a gentle procedure. Most patients report small pinpricks and a burning sensation when the plasma is injected."
+          },
+          {
+            "title": "How long does the Vampire Lift take?",
+            "subtitle": "We plan about 60 minutes for a PRP treatment. The pure treatment time usually does not exceed 20 minutes."
+          },
+          {
+            "title": "When can I expect visible results?",
+            "subtitle": "Most patients report visible results after only 7 days. Patients often report a noticeable refreshment of the face. The final result after a treatment is achieved after about four weeks."
+          },
+          {
+            "title": "What should be considered after the PRP treatment?",
+            "subtitle": "Immediately after the treatment there is a strong reddening and an enormous swelling of the face. This is even desirable and indicates the successful release of the growth factors. The redness is usually no longer visible within 4 hours after the treatment. The swelling usually persists slightly until the next day. Any bruising that may have occurred disappears after 7-14 days."
+          },
+          {
+            "title": "How long do the results last?",
+            "subtitle": "After a single treatment, the results usually last about two months. If you do a course of 3 to 5 treatments, our patients report results lasting 6 to 12 months."
+          },
+          {
+            "title": "What do I need to be aware of after the Vampire Lift?",
+            "subtitle": "After the treatment you should not exercise for 3 days, take a hot bath (showering is possible), do not use any acidic cosmetics and do not apply any facial masks. You should also avoid sunbathing and the solarium during this time."
+          },
+          {
+            "title": "Are there any side effects?",
+            "subtitle": "The vampire lift is a gentle procedure in which only the body's own ingredients are used. Nevertheless, side effects can occur with any medical procedure. There are common side effects that you can expect after any injection. These are small bruises (increasingly rare due to the use of special needles), slight redness or swelling. These side effects subside on the same day, or after 1-2 days. Bruises can persist for up to two weeks. Especially if the injection is in the eye area. If bruises appear, you can cover them with hypoallergenic cosmetics. Very rare side effects would be skin surface infections, which can be treated with an antibiotic."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Treatment duration",
+          "detail": "approx. 60 minutes"
+        },
+        "areasOfApplication": {
+          "title": "Areas of application",
+          "detail": "Face | Neck | Head for hair loss"
+        },
+        "anasthesia": {
+          "title": "",
+          "detail": ""
+        },
+        "postTreatment": {
+          "title": "Aftercare",
+          "detail": "cooling for a short time"
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "after 1-3 days"
+        }
+      }
+    },
+    "prp_therapy": {
+      "title": "PRP Therapy - Hair Loss",
+      "general": {
+        "title": "PRP-Therapie",
+        "content": "The so-called PRP treatment is a particularly innovative and gentle method to prevent hair loss or to significantly improve already existing hair loss. It is a natural therapy against hair loss. During the treatment, the plasma is enriched with platelets from your own blood. The plasma isolated from your blood is rich in growth factors and platelets. Thrombocytes (blood platelets) are used in the body for blood clotting and are largely responsible for the healing process of skin damage or skin irritations. The isolated plasma is injected directly into your hair roots with very fine needles. The therapy increases the cell growth of your hair follicles."
+      },
+      "treatment": {
+        "title": "Die Behandlung",
+        "content": "The method uses autologous blood plasma (PRP), which is injected specifically into the areas of the head with risk of hair loss. Through the natural extraction of the blood plasma and the platelets and growth factors it contains, existing hair can be strengthened, and dormant hair root cells can be reactivated.\nAs with a normal blood draw, a small amount of venous blood is taken from the patient's arm vein. The blood is processed in a centrifuge so that finally the platelet-rich plasma is separated and ready for injection. This is finally injected into the scalp.\nDue to our minimally invasive injection technique, anesthesia of the scalp is not necessary.\nThe treatment takes between 60 and 90 minutes."
+      },
+      "faq": {
+        "title": "Weitere Informationen",
+        "content": [
+          {
+            "title": "What should be considered before the procedure?",
+            "subtitle": "One week before your autologous blood therapy, you should, if possible, refrain from taking certain medications. These include in particular medications such as aspirin, ibuprofen or other similar painkillers and rheumatism medications. It is very important to refrain from taking these medications because they inhibit the blood platelets (thrombocytes). You should not tone or color your hair for at least one week before the treatment."
+          },
+          {
+            "title": "Who is suitable for this therapy?",
+            "subtitle": "The method is generally suitable for anyone who suffers from hair loss. It is often used against hair loss before and after a hair transplant. Through the treatment with the patient's own blood, the hair is stimulated and an improved growth of the hair follicles after the hair transplant can be achieved."
+          },
+          {
+            "title": "What are the advantages of PRP treatment for hair loss?",
+            "subtitle": "PRP treatment for hair loss offers numerous advantages. First and foremost, the blood concentrate used in the treatment is made from your own blood. Thus, the procedure has very low risk. It is almost impossible for intolerances or allergic reactions to occur as a result of PRP therapy. With this method, a long-term treatment effect against hair loss can be achieved."
+          },
+          {
+            "title": "How often can PRP hair loss treatment be repeated?",
+            "subtitle": "Depending on the cause of the hair loss, the PRP therapy should consist of about 6 individual PRP treatments, which are carried out at intervals of 3-4 weeks. If necessary, the therapy effect achieved should be refreshed with a single treatment every six months. In more than 90% of cases with acute hair loss, the hair loss improves after the first PRP treatment. No other therapy can currently achieve such successful results."
+          },
+          {
+            "title": "Does PRP hair loss treatment have side effects?",
+            "subtitle": "Since PRP is a purely biological, autologous/body-own therapeutic agent without synthetic, chemical or other toxic substances, it is generally very well tolerated. Reactions in the form of allergies or other side effects are not known."
+          },
+          {
+            "title": "Is the PRP treatment against hair loss painful?",
+            "subtitle": "Depending on the injection technique, PRP therapy can be experienced as painless to painful."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Duration of treatment",
+          "detail": "approx. 60 minutes"
+        },
+        "areasOfApplication": {
+          "title": "",
+          "detail": ""
+        },
+        "anasthesia": {
+          "title": "",
+          "detail": ""
+        },
+        "postTreatment": {
+          "title": "",
+          "detail": ""
+        },
+        "sociable": {
+          "title": "",
+          "subtitle": ""
+        }
+      }
+    },
+    "anti_stress": {
+      "title": "B’LANCE® Infusionstherapien",
+      "general": {
+        "title": "Allgemeines zur Anti-Stress Infusionstherapie",
+        "content": "Unser Alltag ist anspruchsvoll und stellt uns ständig vor neue Herausforderungen. In manchen Phasen müssen wir geistige und körperliche Höchstleistungen erbringen. Unsere Ressourcen werden zunehmend und oft schleichend aufgebraucht.\nDie Power Infusion versorgt den Körper mit Nährstoffen in der richtigen Dosierung direkt über die Blutbahn und wird vom Körper zu 100% resorbiert. Vitamine, Mineralstoffe, Aminosäuren, Spurenelemente gelangen somit direkt dorthin, wo sie gebraucht werden."
+      },
+      "treatment": {
+        "title": "Die Behandlung",
+        "content": "Die Infusionen unterliegen strengen wissenschaftlichen Erkenntnissen, und vor jeder Therapie findet eine individuelle Gesundheitsanalyse statt, um die Wirkstoffkombination individuell anzupassen.\nDer speziell zusammengestellte Wirstoff-Cocktail wird intravenös mithilfe eines Katheters verabreicht. Die Behandlung ist bis auf den Pieks der Nadel völlig schmerzfrei und dauert ca. 45 Minuten bis 1,5 Stunden.\nMit einer einzigen Infusion erreichen Sie in kurzer Zeit einen zehnfachen Plasmaspiegel dessen, was Sie über die Nahrung oder Nahrungsergänzungsmittel aufnehmen können.\nFür ein nachhaltiges Ergebnis empfehlen wir Kuren mit sechs bis zehn Behandlungen über drei bis fünf Wochen."
+      },
+      "faq": {
+        "title": "FAQ's",
+        "content": [
+          {
+            "title": "Für wen eignet sich eine Anti-Stress Infusion?",
+            "subtitle": "Manager oder andere Personengruppen, die oft durch Dauerstress eine ungesunde Ernährung, wenig Schlaf und zu wenig Flüssigkeitsaufnahme an einem ausgeprägten Vitamin C Mangel leiden, sollen von diesem Trend profitieren. Durch die rehydrierenden und vitalisierenden Injektionen soll ein sanfter Energiekick induziert werden."
+          },
+          {
+            "title": "Wie viele Behandlungen werden benötigt?",
+            "subtitle": "Für ein nachhaltiges Ergebnis empfehlen wir sechs bis zehn Behandlungen über drei bis fünf Wochen."
+          },
+          {
+            "title": "Wie lange wirken die Infusionen?",
+            "subtitle": "Power-Infusion wirkt in Abhängigkeit des gewählten Kurplans 4 Wochen bis ? Monate."
+          },
+          {
+            "title": "Gibt es Nebenwirkungen?",
+            "subtitle": "Die Anti-Stress-Infusionen sind nahezu nebenwirkungsfrei.\nWie bei jeder Injektion, können im Bereich der Einstichstelle kleinere Schwellungen, Blutergüsse, Schmerzen, Juckreiz, Schwindel, Übelkeit und allergische Reaktionen auftreten."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Behandlungsdauer",
+          "detail": "45- 90 Minuten"
+        },
+        "areasOfApplication": {
+          "title": "Anwendungsbereiche",
+          "detail": "Erschöpfungszuständen"
+        },
+        "anasthesia": {
+          "title": "Anästhesie",
+          "detail": "keine"
+        },
+        "postTreatment": {
+          "title": "",
+          "detail": ""
+        },
+        "sociable": {
+          "title": "Gesellschaftsfähig",
+          "subtitle": "sofort"
+        }
+      }
+    },
+    "fat_away": {
+      "title": "Injection Lipolysis",
+      "general": {
+        "title": "Allgemeines zur Fett-Weg-Spritze",
+        "content": "The injection lipolysis is the controlled destruction of fat cells using medical substances. This procedure is a non-surgical treatment that is used especially for localised fat deposits. Injection lipolysis has been performed worldwide since 1995, it is therefore well proven and based on many years of experience.\nThe treatment with the the injection is particularly suitable for individual fat deposits that cannot be reduced by diet or exercise. Typical areas of application are the abdomen, hips, legs, double chin and the male breast. Compared to liposuction, in which fat cells are suctioned out in a surgical procedure, injection lipolysis is a smaller and more gentle procedure. However, the treatment is limited to smaller areas and does not work for every patient."
+      },
+      "treatment": {
+        "title": "Die Behandlung",
+        "content": "The treatment is almost painless. Several sessions are usually necessary at intervals of about 4 to 6 weeks, the number of sessions depends on the fat deposits. The fat cells are completely destroyed, consequently the effect is permanent.\nThe treatment itself, which is carried out on an outpatient basis, takes about 15 to 45 minutes. First, the treatment area is marked and carefully disinfected afterwards. If necessary, you will be given a local anaesthetic in the form of a numbing cream on the affected parts of your body so that you do not feel the punctures.\nAfter the treatment, you may experience redness and swelling around the injection site. Some patients report itching or tenderness at the site. However, these symptoms usually disappear within 2 to 7 days. In most cases, you can return to work the next day. However, as part of the aftercare, swimming pools, solariums, saunas and massages should be avoided for 7 days."
+      },
+      "faq": {
+        "title": "FAQ's",
+        "content": [
+          {
+            "title": "Who is suitable for injection lipolysis?",
+            "subtitle": "The injection is a method that can be used as a supplement or alternative to liposuction. It is particularly suitable for the removal of smaller fat deposits in problem areas."
+          },
+          {
+            "title": "How does the injection lipolysis work?",
+            "subtitle": "There are different preparations that are used for injection lipolysis. The active ingredient common to all products is bile acid salts in different preparations. Another active ingredient of some preparations is phosphatidylcholine (lecithin from the soybean).\nThe effect of the injection is based on the principle of lipolysis, which is the name of the biochemical process of fat dissolution in the body's cells that first begins to soften the fat cover. The dissolved fats then enter the bloodstream via the lymphatic fluid, where they are removed and excreted in the stool. Unfortunately, there are some patients for whom this treatment method is unsuccessful."
+          },
+          {
+            "title": "Is the treatment painful?",
+            "subtitle": "Patients only feel a slight burning sensation and some pressure sensitivity around the injection area. There may also be minor swelling and redness, which disappears after a short time."
+          },
+          {
+            "title": "What are the side effects?",
+            "subtitle": "Injection lipolysis is a low-risk treatment. The substances used in this procedure have been used in medicine for decades. Thus, all side effects are generally known - these are limited to minimal swelling, redness, overheating in the injection area and increased sensitivity to pressure for a few days as well as possibly bruising, which, however, disappear quickly."
+          },
+          {
+            "title": "Is the result permanent?",
+            "subtitle": "Yes, because the fat and the fat cells dissolve and are transported away via the lymphatic system. However, the human body has enough fat cells all over the body, so if you eat too much and exercise too little, the fat deposits may well reappear in the treated area."
+          },
+          {
+            "title": "What should I pay attention to after the treatment?",
+            "subtitle": "In the time after the treatment, you should wear comfortable clothing.\nYou should refrain from sauna and stronger sporting activities for 7 days, sun and solarium are also forbidden. The resorption of the fat cells in the problem zone is stimulated and the body purifies itself. Therefore, you should drink a lot after the treatment, this facilitates the flushing out of the unwanted substances. Alcohol impedes the reaction and therefore is absolutely forbidden."
+          }
+        ]
+      },
+      "summary": {
+        "duration": {
+          "title": "Treatment duration",
+          "detail": "approx. 45-60 minutes"
+        },
+        "areasOfApplication": {
+          "title": "Areas of application",
+          "detail": "Chin | Upper and lower arms | Chest | Lower abdomen | Hip"
+        },
+        "anasthesia": {
+          "title": "",
+          "detail": ""
+        },
+        "postTreatment": {
+          "title": "After-treatment",
+          "detail": "cooling for a short time"
+        },
+        "sociable": {
+          "title": "Fit for social life",
+          "subtitle": "after 24 hours at the latest"
+        }
+      }
+    }
+  }
+}
